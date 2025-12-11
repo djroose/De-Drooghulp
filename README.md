@@ -1,5 +1,5 @@
 # De Drooghulp
-*Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
+De drooghulp is een slim apparaatje dat helpt de beste manier te kiezen om de was te drogen.
 
 🛠️ Built by ``Djurre Roose`` & ``Jutte De Baets``   
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
