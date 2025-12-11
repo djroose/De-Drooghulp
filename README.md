@@ -42,7 +42,7 @@ Licht toe op welke manier je AI gebruikte in dit project.
 ### Discovery
 * Benchmarks (N=10)
   * [Protocol](https://docs.google.com/document/d/1cP4VZuUUpNVGVo4KTH9TOu2ZBLcDY9NU/edit?usp=sharing&ouid=112761098140139109352&rtpof=true&sd=true)
-  * [Rapport](url)
+  * [Rapport](https://docs.google.com/document/d/1RMH-4ebDyqPZp6u-iOkvuYaN0DrEjdH6/edit?usp=sharing&ouid=112761098140139109352&rtpof=true&sd=true)
 * Interviews (N=3)
   * [Protocol](https://docs.google.com/document/d/1aS4Hp5e0WsWyajHDyRpsDhVsp2zK-kZ6/edit?usp=sharing&ouid=112761098140139109352&rtpof=true&sd=true)
   * [Rapport](https://docs.google.com/document/d/1fn9qW_zuFX9AAk4-aL3OmXlxV-OdaJir/edit?usp=sharing&ouid=112761098140139109352&rtpof=true&sd=true)
