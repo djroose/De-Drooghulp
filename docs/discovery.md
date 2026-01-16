@@ -44,7 +44,7 @@ De interviews brachten drie kernproblemen aan het licht:
 * *Quote Francine:* "Vandaag is het niet interessant... steek maar direct in de droogkast."
 
 <p align="center">
-  <img src="img/gebruikersinzicht.png" width="100%">
+  <img src="img/gebruikersinzicht.PNG" width="100%">
 </p>
 
 ### 3.2 Benchmark Analyse (KPI Scores)
