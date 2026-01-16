@@ -43,7 +43,21 @@ De drooghulp die wij ontwikkelen, moet de duurzame opties weer vanzelfsprekend m
 5. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
-Max. 500 woorden
+Kritische reflectie: 
+
+Geen enkel project is perfect of ooit echt 'af'. Wij hebben ons best gedaan om met zoveel mogelijk factoren rekening te houden, maar beseffen dat het onmogelijk is om alles af te dekken. Hieronder volgt een opsomming van potentiële obstakels voor de werking van de drooghulp. Waar mogelijk zullen we in de verdere uitwerking naar oplossingen zoeken. 
+
+Locatie van het drogen Het apparaat wordt logischerwijs in de wasplaats (het waskot) gehangen. Niet iedereen hangt de was echter op diezelfde locatie op. Omdat het apparaat zijn advies baseert op de lokale temperatuur en luchtvochtigheid, kunnen de sensoren een vertekend beeld geven als de was in een andere ruimte wordt gedroogd. 
+
+Afhankelijkheid van wifi Het apparaat gebruikt online weersvoorspellingen om accuraat en up-to-date advies te geven. Zodra de wifi-verbinding wegvalt, verliest het apparaat een groot deel van zijn functionaliteit. Dit beperkt de inzetbaarheid op locaties met slecht bereik, zoals afgelegen plekken of kelders. 
+
+De gemaksbarrière Dit product verlaagt de drempel om voor een duurzame optie te kiezen, maar neemt de fysieke handeling (de was ophangen) niet weg. Sommige gebruikers kiezen niet voor de droogkast vanwege de droogsnelheid, maar puur uit gemakzucht. Voor deze groep kan onze vorm van 'nudging' eerder als irritant dan als behulpzaam worden ervaren. 
+
+Representativiteit van de steekproef Hoe groter de groep testpersonen, hoe beter het beeld van de potentiële gebruiker en diens behoeften. Hoewel wij tests hebben uitgevoerd, is de steekproef waarschijnlijk te klein en te weinig divers om een volledig realistisch beeld van de doelgroep te vormen. 
+
+Toegankelijkheid (Kleurenblindheid) De kerninformatie wordt gecommuniceerd via gekleurde lampjes (groen, oranje, rood). Voor mensen met kleurenblindheid is dit onderscheid moeilijk of niet te maken. In het vervolgonderzoek moet worden nagegaan hoe we het product ook voor deze groep toegankelijk kunnen maken (bijvoorbeeld door andere signalen toe te voegen). 
+
+ 
 
 ## Noot inzake het gebruik van AI
 Licht toe op welke manier je AI gebruikte in dit project.
