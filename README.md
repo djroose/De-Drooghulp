@@ -60,7 +60,7 @@ Toegankelijkheid (Kleurenblindheid) De kerninformatie wordt gecommuniceerd via g
  
 
 ## Noot inzake het gebruik van AI
-Licht toe op welke manier je AI gebruikte in dit project.
+De uiteindelijke tekst is met behulp van AI gecontroleerd op taalfouten en verfijnd voor een betere leesbaarheid.
 
 ## Bijlagen
 ### Discovery

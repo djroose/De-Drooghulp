@@ -12,6 +12,8 @@ Dit document bevat de volledige lijst met componenten, specificaties en de gesch
 * Voorschakelweerstanden
 * Voeding (adapter)
 * DSI-lintkabel
+* **DHT22:** Vereist een 3.3V of 5V verbinding en één GPIO datapin (met eventueel een 10k ohm pull-up weerstand).
+* **RGB Leds:** Worden aangesloten op PWM-geschikte GPIO pinnen voor kleurfiltering.
 
 ## BOM Overzichtstabel
 
@@ -27,7 +29,3 @@ Dit document bevat de volledige lijst met componenten, specificaties en de gesch
 | **Jumperdraden** | Set Male/Female & Female/Female | Gotron | € 4,00 - € 7,00 |
 | **Weerstanden** | Set voorschakelweerstanden (o.b.v. LED specs) | OpenCircuit / HobbyElectronica | € 1,00 - € 5,00 |
 | **TOTAAL** | | | **€ 111,50 - € 142,00** |
-
-
-* **DHT22:** Vereist een 3.3V of 5V verbinding en één GPIO datapin (met eventueel een 10k ohm pull-up weerstand).
-* **RGB Leds:** Worden aangesloten op PWM-geschikte GPIO pinnen voor kleurfiltering.
