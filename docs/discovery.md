@@ -6,8 +6,6 @@
 
 **Student:** Djurre Roose (2IO)
 
----
-
 ## 1. Doelstellingen
 
 Het hoofddoel van deze discovery-fase is het begrijpen van de **beslissingsmomenten** rondom wassen en drogen. De focus ligt op het verlagen van energiekosten voor kwetsbare doelgroepen (energiearmoede) zonder verlies van leefcomfort.
@@ -22,8 +20,6 @@ Het hoofddoel van deze discovery-fase is het begrijpen van de **beslissingsmomen
 * Hoe presteren huidige marktproducten op sociale relevantie?
 * Welke rol spelen woningkenmerken (isolatie/vocht) bij de keuze voor de droogkast?
 
----
-
 ## 2. Materiaal & Methoden
 
 Er is gebruikgemaakt van **triangulatie** om de betrouwbaarheid van de inzichten te vergroten.
@@ -32,9 +28,6 @@ Er is gebruikgemaakt van **triangulatie** om de betrouwbaarheid van de inzichten
 | --- | --- | --- | --- |
 | **Benchmark Analyse** | 10 Producten (o.a. Samsung, EcoEgg) | Vergelijking op 5 genormaliseerde KPI-scores | [Rapport](https://docs.google.com/document/d/1RMH-4ebDyqPZp6u-iOkvuYaN0DrEjdH6/edit?usp=sharing&ouid=112761098140139109352&rtpof=true&sd=true) |
 | **Gebruikersinterviews** | 3 Respondenten (Bert, Jan, Francine) | Achterhalen van de 'waarom' (semigestructureerd) | [Rapport](https://docs.google.com/document/d/1fn9qW_zuFX9AAk4-aL3OmXlxV-OdaJir/edit?usp=sharing&ouid=112761098140139109352&rtpof=true&sd=true) |
-
-
---- 
 
 ## 3. Resultaten
 
@@ -51,7 +44,7 @@ De interviews brachten drie kernproblemen aan het licht:
 * *Quote Francine:* "Vandaag is het niet interessant... steek maar direct in de droogkast."
 
 <p align="center">
-  <img src="gebruikersinzicht.png" width="100%">
+  <img src="img/gebruikersinzicht.png" width="100%">
 </p>
 
 ### 3.2 Benchmark Analyse (KPI Scores)
@@ -66,7 +59,7 @@ De interviews brachten drie kernproblemen aan het licht:
 | **Retrofit & Schaalbaarheid** | Werkt merk-onafhankelijk met 90%+ van de apparaten. | Werkt alleen met één specifiek (en vaak duur) merk/type machine. |
 
 <p align="center">
-  <img src="radarplot.png" width="100%">
+  <img src="img/radarplot.png" width="100%">
 </p>
 
 De marktanalyse toont een duidelijke kloof:
@@ -74,8 +67,6 @@ De marktanalyse toont een duidelijke kloof:
 * **High-End:** *Samsung SmartThings Energy* (Sterk in inzicht, maar duur/complex).
 * **Low-End:** *EcoEgg* (Budgetvriendelijk, maar mist slimme gedragssturing).
 * **Kans:** Een **Retrofit-oplossing** die op oude machines werkt en sociale relevantie prioriteert.
-
----
 
 ## 4. Conclusies & Implicaties
 
