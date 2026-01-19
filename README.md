@@ -89,6 +89,7 @@ This repository contains both software and design materials created as part of a
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
 ## Bronnen
+
 [^1]: Milieu Centraal. (z.d.). *Wasdrogers*. Geraadpleegd op 29 oktober 2025, van https://www.milieucentraal.nl/energie-besparen/apparaten-in-huis/wasdroger/
 [^2]: Nibud. (2025). *Kosten van energie en water*. Geraadpleegd op 29 oktober 2025, van https://www.nibud.nl/onderwerpen/uitgaven/kosten-energie-water/
 [^3]: Bosch & Siemens. (z.d.). *Home Connect: Slimme huishoudtoestellen*. Geraadpleegd op 25 oktober 2025, van https://www.home-connect.com/nl/nl/
