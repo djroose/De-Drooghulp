@@ -65,19 +65,19 @@ De uiteindelijke tekst is met behulp van AI gecontroleerd op taalfouten en verfi
 ## Bijlagen
 ### Discovery
 * Benchmarks (N=10)
-  * [Protocol](https://docs.google.com/document/d/1cP4VZuUUpNVGVo4KTH9TOu2ZBLcDY9NU/edit?usp=sharing&ouid=112761098140139109352&rtpof=true&sd=true)
-  * [Rapport](https://docs.google.com/document/d/1RMH-4ebDyqPZp6u-iOkvuYaN0DrEjdH6/edit?usp=sharing&ouid=112761098140139109352&rtpof=true&sd=true)
+  * [Protocol](./reports%20and%20protocols/Protocol%20Benchmark%20Duurzame%20Was_Droogtechnologieen.docx.pdf)
+  * [Rapport](./reports%20and%20protocols/Benchmark%20analyse.docx.pdf)
 * Interviews (N=3)
-  * [Protocol](https://docs.google.com/document/d/1aS4Hp5e0WsWyajHDyRpsDhVsp2zK-kZ6/edit?usp=sharing&ouid=112761098140139109352&rtpof=true&sd=true)
-  * [Rapport](https://docs.google.com/document/d/1fn9qW_zuFX9AAk4-aL3OmXlxV-OdaJir/edit?usp=sharing&ouid=112761098140139109352&rtpof=true&sd=true)
+  * [Protocol](./reports%20and%20protocols/Interview%20-%20protocol%20-%20Sustainability%20at%20home.docx.pdf)
+  * [Rapport](./reports%20and%20protocols/Interview%20analyse.docx.pdf)
     
 ### Definition
 * User testing wave 1 (N=5)
-  * [Protocol](https://docs.google.com/document/d/12Y0uvV-GFeJad28ITNqLq3mI8NrXU5RkJoSP7lTV-aU/edit?usp=sharing)
-  * [Rapport](https://docs.google.com/document/d/1MzUD965Arp1RFP035gpeoQ-YI_tX7GHnjIzfxmuopq8/edit?usp=sharing)
+  * [Protocol](./reports%20and%20protocols/Officieel%20Protocol%20wave%201.pdf)
+  * [Rapport](./reports%20and%20protocols/Officieel%20rapport%20test%20wave%201.pdf)
 * User testing wave 2 (N=5)
-  * [Protocol](https://docs.google.com/document/d/1KANyFV3mbucQ7dYN-OMpLmkwGc76CyLamPmW8GC9riY/edit?usp=sharing)
-  * [Rapport](https://docs.google.com/document/d/1EZFO-_iupOLfHmlthpUT6_ApN1xEfJ4H2nmqUWEpunQ/edit?usp=sharing)
+  * [Protocol](./reports%20and%20protocols/Officieel%20Protocol%20Wave%202%20.pdf)
+  * [Rapport](./reports%20and%20protocols/Officieel%20Rapport%20Test%20Wave%202.pdf)
 
 ## Licentie
 
