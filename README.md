@@ -90,15 +90,26 @@ You are free to reuse and build upon this work, both commercially and non-commer
 
 ## Bronnen
 
-[^1]: Milieu Centraal. (z.d.). *Wasdrogers*. Geraadpleegd op 29 oktober 2025, van https://www.milieucentraal.nl/energie-besparen/apparaten-in-huis/wasdroger/
-[^2]: Nibud. (2025). *Kosten van energie en water*. Geraadpleegd op 29 oktober 2025, van https://www.nibud.nl/onderwerpen/uitgaven/kosten-energie-water/
-[^3]: Bosch & Siemens. (z.d.). *Home Connect: Slimme huishoudtoestellen*. Geraadpleegd op 25 oktober 2025, van https://www.home-connect.com/nl/nl/
-[^4]: Samsung. (z.d.). *SmartThings Energy: Energiebesparing voor je huis*. Geraadpleegd op 25 oktober 2025, van https://www.samsung.com/be/home-appliances/smartthings/energy/
-[^5]: Miele. (z.d.). *Miele@Home: Slimme toestellen, probleemloos wonen*. Geraadpleegd op 25 oktober 2025, van https://www.miele.be/nl/c/mielehome-2386.htm
-[^6]: Ecoegg. (z.d.). *Ecoegg: Sustainable washing made easy*. Geraadpleegd op 25 oktober 2025, van https://www.eco-egg.eu/
-[^7]: Sense. (z.d.). *Sense Energy Monitor: Real-time home energy monitoring*. Geraadpleegd op 25 oktober 2025, van https://sense.com/
-[^8]: Electrolux. (z.d.). *Connectivity: My Electrolux Care app & Care Advisor*. Geraadpleegd op 25 oktober 2025, van https://www.electrolux.co.uk/about-us/connectivity/
-[^9]: HomeWizard. (z.d.). *Energy Socket: Sluipverbruik meten en schakelen*. Geraadpleegd op 25 oktober 2025, van https://www.homewizard.com/nl-be/energy-socket/
-[^10]: Ecozone. (z.d.). *Tumble Dryercubes: Reduce drying time & save energy*. Geraadpleegd op 25 oktober 2025, van https://ecozone.com/products/ecozone-dryer-cubes-2/
-[^11]: JouleBug. (z.d.). *JouleBug: Employee Engagement for Sustainability*. Geraadpleegd op 25 oktober 2025, van https://www.joulebug.com/
-[^12]: Guppyfriend. (z.d.). *GUPPYFRIEND Washing Bag: Stop Microplastics*. Geraadpleegd op 25 oktober 2025, van https://en.guppyfriend.com/
+Milieu Centraal. (z.d.). Wasdrogers. Geraadpleegd op 29 oktober 2025, van https://www.milieucentraal.nl/energie-besparen/apparaten-in-huis/wasdroger/
+
+Nibud. (2025). Kosten van energie en water. Geraadpleegd op 29 oktober 2025, van https://www.nibud.nl/onderwerpen/uitgaven/kosten-energie-water/
+
+Bosch & Siemens. (z.d.). Home Connect: Slimme huishoudtoestellen. Geraadpleegd op 25 oktober 2025, van https://www.home-connect.com/nl/nl/
+
+Ecoegg. (z.d.). Ecoegg: Sustainable washing made easy. Geraadpleegd op 25 oktober 2025, van https://www.eco-egg.eu/
+
+Ecozone. (z.d.). Tumble Dryercubes: Reduce drying time & save energy. Geraadpleegd op 25 oktober 2025, van https://ecozone.com/products/ecozone-dryer-cubes-2/
+
+Electrolux. (z.d.). Connectivity: My Electrolux Care app & Care Advisor. Geraadpleegd op 25 oktober 2025, van https://www.electrolux.co.uk/about-us/connectivity/
+
+Guppyfriend. (z.d.). GUPPYFRIEND Washing Bag: Stop Microplastics. Geraadpleegd op 25 oktober 2025, van https://en.guppyfriend.com/
+
+HomeWizard. (z.d.). Energy Socket: Sluipverbruik meten en schakelen. Geraadpleegd op 25 oktober 2025, van https://www.homewizard.com/nl-be/energy-socket/
+
+JouleBug. (z.d.). JouleBug: Employee Engagement for Sustainability. Geraadpleegd op 25 oktober 2025, van https://www.joulebug.com/
+
+Miele. (z.d.). Miele@Home: Slimme toestellen, probleemloos wonen. Geraadpleegd op 25 oktober 2025, van https://www.miele.be/nl/c/mielehome-2386.htm
+
+Samsung. (z.d.). SmartThings Energy: Energiebesparing voor je huis. Geraadpleegd op 25 oktober 2025, van https://www.samsung.com/be/home-appliances/smartthings/energy/
+
+Sense. (z.d.). Sense Energy Monitor: Real-time home energy monitoring. Geraadpleegd op 25 oktober 2025, van https://sense.com/
