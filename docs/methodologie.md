@@ -6,7 +6,7 @@ Voor dit project pasten we de Double Diamond-methodologie toe. In het eerste sem
 
 1. Discovery: Wat is het probleem? (Oktober – November) In deze divergerende fase stond het verzamelen van inzichten centraal. 
 
-Activiteiten: We startten met het opstellen van persona’s en user models. Daarnaast organiseerden we een eerste Sprint Day om de gebruikerscontext in kaart te brengen..
+Activiteiten: We startten met het opstellen van persona’s en user models. Daarnaast organiseerden we een eerste Sprint Day om de gebruikerscontext in kaart te brengen.
 
 Onderzoek: We voerden een benchmarkonderzoek uit (N=10) naar bestaande oplossingen en valideerden de gebruikersbehoeften via interviews (N=5). 
 

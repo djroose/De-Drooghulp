@@ -23,16 +23,12 @@ Onze 'drooghulp' adviseert wat de beste droogoptie is, met als doel de droogkast
 </p>
 
 ## Introductie
+De opdracht was helder: ontwerp een fysiek product dat een probleem oplost en leidt tot een duurzamere uitkomst.
 
-"Voor het opleidingsonderdeel Project Gebruiksgericht Ontwerp kregen we de keuze uit drie challenges om de theorie in de praktijk te brengen. Wij kozen resoluut voor het thema duurzaamheid. De opdracht was helder: ontwerp een fysiek product dat een probleem oplost en leidt tot een duurzamere uitkomst. 
+Wij richten ons op het drogen van de was. In de praktijk gebeurt dit op drie manieren: buiten aan de lijn, binnen op een rekje of in de droogkast. Hoewel de droogkast door het hoge energieverbruik ecologisch de minst gewenste optie is, kiezen velen hier toch voor vanwege het gemak. Dit is wat wij willen veranderen met de drooghulp. 
 
- 
+De drooghulp die wij ontwikkelen moet de duurzame opties weer vanzelfsprekend maken. Ons hoofddoel is het energieverbruik te verminderen door gedragsverandering te stimuleren. Een belangrijke randvoorwaarde hierbij is dat het apparaat zich beperkt tot slim advies en meldingen; het fysieke ophangen van de was blijft de taak van de gebruiker." Om hierin te slagen is het cruciaal om het was ritueel van de gebruiken te begrijpen om hierop te kunnen inspelen. Het product moet snel kort en krachtig kunnen communiceren met de gebruiker zodat het nauwelijks merkbaar is dat het gebruikt is geweest. Tegelijkertijd moet het meer info kunnen bieden als dit gewenst is zodat het advies geloofwaardig blijft en de gebruiker een duidelijk beeld kan krijgen van de opties. 
 
-Wij richten ons op het drogen van de was. In de praktijk gebeurt dit op drie manieren: buiten aan de lijn, binnen op een rekje of in de droogkast. Hoewel de droogkast door het hoge energieverbruik ecologisch de minst gewenste optie is, kiezen velen hier toch voor vanwege het gemak. 
-
- 
-
-De drooghulp die wij ontwikkelen, moet de duurzame opties weer vanzelfsprekend maken. Ons hoofddoel is het energieverbruik te verminderen door gedragsverandering te stimuleren. Een belangrijke randvoorwaarde hierbij is dat het apparaat zich beperkt tot slim advies en meldingen; het fysieke ophangen van de was blijft de taak van de gebruiker." 
 
 ## Inhoudstafel
 
@@ -60,7 +56,7 @@ Toegankelijkheid (Kleurenblindheid) De kerninformatie wordt gecommuniceerd via g
  
 
 ## Noot inzake het gebruik van AI
-De uiteindelijke tekst is met behulp van AI gecontroleerd op taalfouten en verfijnd voor een betere leesbaarheid.
+Ai is gebruikt om Taalfouten uit onze tekst te halen en de tekst vloeiend leesbaar te maken.
 
 ## Bijlagen
 ### Discovery
@@ -80,6 +76,7 @@ De uiteindelijke tekst is met behulp van AI gecontroleerd op taalfouten en verfi
   * [Rapport](./reports%20and%20protocols/Officieel%20Rapport%20Test%20Wave%202.pdf)
 
 ## Licentie
+> :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 
