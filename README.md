@@ -5,7 +5,7 @@ De drooghulp is een slim apparaatje dat helpt de beste manier te kiezen om de wa
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*18/12/2025 van de laatste update*   
+*15/02/2026 van de laatste update*   
 
 ## Samenvatting
 "Met het wisselvallige Belgische weer is het lastig te voorspellen of je de was buiten kunt hangen. Ook binnen drogen is niet altijd ideaal. De droogkast is dan vaak de makkelijkste, maar helaas ook de minst ecologische keuze.
@@ -15,7 +15,7 @@ Uit onze interviews over drooggewoontes blijkt dat de angst voor vocht en geurov
 Onze 'drooghulp' adviseert wat de beste droogoptie is, met als doel de droogkast zo min mogelijk te gebruiken. Dit is beter voor de planeet én voor je portemonnee. Het systeem analyseert weersvoorspellingen (voor buitendrogen) en voert zelf metingen uit om te zien of binnen drogen mogelijk is. Is de droogkast toch de enige optie? Dan checkt de hulp of het slim is om even te wachten tot het daltarief ingaat."
 
 <p align="center">
-  <img src="img/heroshot.png" width="100%">
+  <img src="img/hero_shot.png" width="100%">
 </p>
 
 ## Introductie
@@ -52,20 +52,20 @@ Ai is gebruikt om Taalfouten uit onze tekst te halen en de tekst vloeiend leesba
 
 ## Bijlagen
 ### Discovery
-* Literatuuronderzoek (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
-* Interviews (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
+* Benchmarks (N=10)
+  * [Protocol](./reports%20and%20protocols/Protocol%20Benchmark%20Duurzame%20Was_Droogtechnologieen.docx.pdf)
+  * [Rapport](./reports%20and%20protocols/Benchmark%20analyse.docx.pdf)
+* Interviews (N=3)
+  * [Protocol](./reports%20and%20protocols/Interview%20-%20protocol%20-%20Sustainability%20at%20home.docx.pdf)
+  * [Rapport](./reports%20and%20protocols/Interview%20analyse.docx.pdf)
     
 ### Definition
-* User testing wave 1 (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
-* User testing wave 2 (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
+* User testing wave 1 (N=5)
+  * [Protocol](./reports%20and%20protocols/Officieel%20Protocol%20wave%201.pdf)
+  * [Rapport](./reports%20and%20protocols/Officieel%20rapport%20test%20wave%201.pdf)
+* User testing wave 2 (N=5)
+  * [Protocol](./reports%20and%20protocols/Officieel%20Protocol%20Wave%202%20.pdf)
+  * [Rapport](./reports%20and%20protocols/Officieel%20Rapport%20Test%20Wave%202.pdf)
 
 ## Licentie
 > :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
@@ -78,3 +78,27 @@ This repository contains both software and design materials created as part of a
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
 ## Bronnen
+
+Milieu Centraal. (z.d.). Wasdrogers. Geraadpleegd op 29 oktober 2025, van https://www.milieucentraal.nl/energie-besparen/apparaten-in-huis/wasdroger/
+
+Nibud. (2025). Kosten van energie en water. Geraadpleegd op 29 oktober 2025, van https://www.nibud.nl/onderwerpen/uitgaven/kosten-energie-water/
+
+Bosch & Siemens. (z.d.). Home Connect: Slimme huishoudtoestellen. Geraadpleegd op 25 oktober 2025, van https://www.home-connect.com/nl/nl/
+
+Ecoegg. (z.d.). Ecoegg: Sustainable washing made easy. Geraadpleegd op 25 oktober 2025, van https://www.eco-egg.eu/
+
+Ecozone. (z.d.). Tumble Dryercubes: Reduce drying time & save energy. Geraadpleegd op 25 oktober 2025, van https://ecozone.com/products/ecozone-dryer-cubes-2/
+
+Electrolux. (z.d.). Connectivity: My Electrolux Care app & Care Advisor. Geraadpleegd op 25 oktober 2025, van https://www.electrolux.co.uk/about-us/connectivity/
+
+Guppyfriend. (z.d.). GUPPYFRIEND Washing Bag: Stop Microplastics. Geraadpleegd op 25 oktober 2025, van https://en.guppyfriend.com/
+
+HomeWizard. (z.d.). Energy Socket: Sluipverbruik meten en schakelen. Geraadpleegd op 25 oktober 2025, van https://www.homewizard.com/nl-be/energy-socket/
+
+JouleBug. (z.d.). JouleBug: Employee Engagement for Sustainability. Geraadpleegd op 25 oktober 2025, van https://www.joulebug.com/
+
+Miele. (z.d.). Miele@Home: Slimme toestellen, probleemloos wonen. Geraadpleegd op 25 oktober 2025, van https://www.miele.be/nl/c/mielehome-2386.htm
+
+Samsung. (z.d.). SmartThings Energy: Energiebesparing voor je huis. Geraadpleegd op 25 oktober 2025, van https://www.samsung.com/be/home-appliances/smartthings/energy/
+
+Sense. (z.d.). Sense Energy Monitor: Real-time home energy monitoring. Geraadpleegd op 25 oktober 2025, van https://sense.com/
