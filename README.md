@@ -15,7 +15,7 @@ Uit onze interviews over drooggewoontes blijkt dat de angst voor vocht en geurov
 Onze 'drooghulp' adviseert wat de beste droogoptie is, met als doel de droogkast zo min mogelijk te gebruiken. Dit is beter voor de planeet én voor je portemonnee. Het systeem analyseert weersvoorspellingen (voor buitendrogen) en voert zelf metingen uit om te zien of binnen drogen mogelijk is. Is de droogkast toch de enige optie? Dan checkt de hulp of het slim is om even te wachten tot het daltarief ingaat."
 
 <p align="center">
-  <img src="img/hero_shot.png" width="100%">
+  <img src="img/Prototype wave 3.png" width="100%">
 </p>
 
 ## Introductie
