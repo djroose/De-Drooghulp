@@ -3,7 +3,7 @@
 | ID | Design Requirement | Source | Status |
 | --- | --- | --- | --- |
 |**Interface Layout**|
-| **1.1** |Drie oplichtende iconen aan de linkerkant (Buiten, Binnen, Droogkast) voor snelle vergelijking. | [Rapport Wave 2](https://docs.google.com/document/d/1EZFO-_iupOLfHmlthpUT6_ApN1xEfJ4H2nmqUWEpunQ/edit?usp=sharing) | ✅ |
+| **1.1** |1 Duidelijke voorkeuroptie als advies | [Analyse](../reports%20and%20protocols/Analyse%20develop%201.pdf) | ✅ |
 |**Visuele Rangschikking**|
 | **1.2** |De iconen lichten op in Groen (Aanbevolen), Oranje (Mogelijk) of Rood (Afgeraden). | [Rapport Wave 2](https://docs.google.com/document/d/1EZFO-_iupOLfHmlthpUT6_ApN1xEfJ4H2nmqUWEpunQ/edit?usp=sharing) | ✅ |
 |**Data Hiërarchie**|
