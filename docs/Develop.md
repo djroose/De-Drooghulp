@@ -23,7 +23,7 @@ In de User Flows zijn de specifieke doelen van de gebruiker en de benodigde stap
 In deze stap is het storyboard verder verfijnd om de logische opeenvolging van handelingen te visualiseren. Dit omvat de notificatie bij een voltooide wasbeurt, de interactie met de 'Drooghulp'-interface voor een optimaal droogadvies, en de feedbackloop met de timer die aangeeft wanneer de was buiten droog is.
 
 <p align="center">
-  <img src="img/Costumer Journey.png" width="100%">
+  <img src="img/Storyboard develop.png" width="100%">
 </p>
 
 ### 4. Customer Journey
