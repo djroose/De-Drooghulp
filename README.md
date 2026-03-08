@@ -103,3 +103,9 @@ Miele. (z.d.). Miele@Home: Slimme toestellen, probleemloos wonen. Geraadpleegd o
 Samsung. (z.d.). SmartThings Energy: Energiebesparing voor je huis. Geraadpleegd op 25 oktober 2025, van https://www.samsung.com/be/home-appliances/smartthings/energy/
 
 Sense. (z.d.). Sense Energy Monitor: Real-time home energy monitoring. Geraadpleegd op 25 oktober 2025, van https://sense.com/
+
+Agostini, C. (2025). Drying Buddy [Mobiele app]. Apple App Store. Geraadpleegd op 1 maart 2026, van https://apps.apple.com/app/drying-buddy/id6746894131
+
+Ortega Campos, I. (n.d.). Laundry Timer – Weather-based clothes drying time calculator. Geraadpleegd op 1 maart 2026, van https://www.laundrytimer.com
+
+Nikhil. (n.d.). DryCast – Smart laundry weather forecast. Geraadpleegd op 1 maart 2026, van https://drycast.app
