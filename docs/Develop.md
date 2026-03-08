@@ -1,5 +1,6 @@
 ## Develop
-In deze fase van het ontwerp proces. Werd het gebruik van het product verder uitgediept om nog extra inzicht te krijgen in de fricties van het ontwerp van het product zodat deze zo goed mogelijk kunnen weg gewerkt worden. De tools hieronder werden gebruikt.
+
+Tijdens de Develop-fase van het ontwerpproces is de interactie met het product tot in detail uitgediept. Het doel was om diepgaand inzicht te verkrijgen in de resterende frictiepunten binnen het ontwerp, zodat deze systematisch konden worden geëlimineerd. Door een combinatie van kwantitatieve analyses, visuele mapping en technische verkenningen is het concept van De Drooghulp verfijnd tot een gebruiksvriendelijke en technisch haalbare oplossing. De onderstaande tools en methodieken vormden de kern van deze Develop-fase.   
 
 
 ### 1. Top task analysis
@@ -46,13 +47,31 @@ Documentatie:
   * [Protocol](../reports%20and%20protocols/Protocol%20Benchmark%20analyse%20voor%20Laundry%20Drying%20Apps.pdf)
   * [Rapport](../reports%20and%20protocols/Analyse%20Benchmark%20Analyse%20Laundry%20Drying%20Apps.pdf)
 
-### 6. Interviews
+### 6. Prototype
 
-Er werd nieuwe prototype gemaakt aan de hand van een scherm. Het prototype focust op een betere info architectuur, lay out en gebruiksgemak. 
-Dit prototype werd getest aan de hand van interviews bij gebruikers.
+Na het verzamelen van diepgaande inzichten in de gebruiker en de tekortkomingen van de huidige markt, is een fysiek prototype ontwikkeld. Dit prototype vormt de brug tussen de digitale intelligentie en de fysieke wasruimte. De focus ligt hierbij op het presenteren van een centrale interface die direct bij de wasmachine of droogkast geplaatst wordt, met een geoptimaliseerde informatiearchitectuur en lay-out voor maximaal gebruiksgemak.
+
+Prototype:
+
+    https://www.figma.com/make/3kj79Z1ZVnqXamjAskY5oq/Mobiel-startscherm-slimme-was-assistent?fullscreen=1&t=N7b5oIxtJ4CzQWrN-1 
+
+
+<p align="center">
+  <img src="img/Prototype wave 3.png" width="100%">
+</p>
+
+### 7. Interviews
+
+Er werden interviews gedaan aan de hand van het prototype dat werd ontwikkeld. Om inzicht te krijgen hoe goed de gebruiker met de interface kan omgaan en werd ook effectief in een test scenario geplaatst.
 
   * [Protocol](../reports%20and%20protocols/Protocol%20test%203.pdf)
+  * [Analyse](../reports%20and%20protocols/Analyse%20develop%201.pdf)
+  
 
-### 7. secondary research 
+### 8. Secondary research 
 
-Naast het softwarematige onderzoek en de functionele analyses, hebben we een technische verkenning uitgevoerd naar de hardware voor het prototype van De Drooghulp. Hierbij zijn verschillende microcontrollers en computerplatforms onderzocht, waaronder de mogelijkheden van Arduino. Uiteindelijk is de keuze gevallen op een Raspberry Pi. De belangrijkste reden hiervoor is de behoefte aan een krachtig platform dat simultaan een groot aantal verschillende sensoren kan aansturen die essentieel zijn voor de nauwkeurigheid van het droogadvies. Voor het prototype willen we de volgende data integreren: Temperatuur en Luchtvochtigheid: Voor het berekenen van de verdampingstijd. Beweging: Om te detecteren of de was buiten hangt of binnengehaald wordt. Geluid: Voor mogelijke feedback of statusmeldingen van wasmachines. Display: De Raspberry Pi maakt het mogelijk om direct een scherm aan te sluiten, wat cruciaal is voor de ultra eenvoudige UX en het direct beantwoorden van de hoofdvraag van de gebruiker.
+Naast het softwarematige onderzoek en de functionele analyses, hebben we een technische verkenning uitgevoerd naar de hardware voor het prototype van De Drooghulp. Hierbij zijn verschillende microcontrollers en computerplatforms onderzocht, waaronder de mogelijkheden van Arduino. Uiteindelijk is de keuze gevallen op een Raspberry Pi. De belangrijkste reden hiervoor is de behoefte aan een krachtig platform dat simultaan een groot aantal verschillende sensoren kan aansturen die essentieel zijn voor de nauwkeurigheid van het droogadvies. Voor het prototype willen we de volgende data integreren: 
+- Temperatuur en Luchtvochtigheid: Voor het berekenen van de verdampingstijd. 
+- Beweging: Om te detecteren of de was buiten hangt of binnengehaald wordt. 
+- Geluid: Voor mogelijke feedback of statusmeldingen van wasmachines. 
+- Display: De Raspberry Pi maakt het mogelijk om direct een scherm aan te sluiten, wat cruciaal is voor de ultra eenvoudige UX en het direct beantwoorden van de hoofdvraag van de gebruiker.
