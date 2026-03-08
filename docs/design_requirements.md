@@ -1,21 +1,21 @@
 ## Overzicht van Design Requirements
+|| Status || ❌ niet voldaan || ⚠️ gedeeltelijk voldaan || ✅ voldaan ||
 
 | ID | Design Requirement | Source | Status |
 | --- | --- | --- | --- |
 |**Interface Layout**|
 | **1.1** |1 Duidelijke voorkeuroptie als advies | [Analyse](../reports%20and%20protocols/Analyse%20develop%201.pdf) | ✅ |
 |**Visuele Rangschikking**|
-| **1.2** |De iconen lichten op in Groen (Aanbevolen), Oranje (Mogelijk) of Rood (Afgeraden). | [Rapport Wave 2](https://docs.google.com/document/d/1EZFO-_iupOLfHmlthpUT6_ApN1xEfJ4H2nmqUWEpunQ/edit?usp=sharing) | ✅ |
+| **2.1** |De iconen lichten op in Groen (Aanbevolen), Oranje (Mogelijk) of Rood (Afgeraden). | [Rapport Wave 2](https://docs.google.com/document/d/1EZFO-_iupOLfHmlthpUT6_ApN1xEfJ4H2nmqUWEpunQ/edit?usp=sharing) | ✅ |
 |**Data Hiërarchie**|
-| **1.3** |De verwachte droogduur in uren/minuten wordt als meest prominente waarde getoond. | [Rapport Wave 1](https://docs.google.com/document/d/1MzUD965Arp1RFP035gpeoQ-YI_tX7GHnjIzfxmuopq8/edit?usp=sharing) | ✅ |
-| **1.4** |Informatie over het optimale moment (bijv. "Start over 30 min" of "Tijd tot regen"). | [Rapport Wave 2](https://docs.google.com/document/d/1EZFO-_iupOLfHmlthpUT6_ApN1xEfJ4H2nmqUWEpunQ/edit?usp=sharing) | ✅ |
-| **1.5** |Weergave van secundaire omgevingsdata zoals temperatuur en luchtvochtigheid. | [Rapport Wave 2](https://docs.google.com/document/d/1EZFO-_iupOLfHmlthpUT6_ApN1xEfJ4H2nmqUWEpunQ/edit?usp=sharing) | ✅ |
+| **3.1** |De verwachte droogduur in uren/minuten wordt als meest prominente waarde getoond. | [Rapport Wave 1](https://docs.google.com/document/d/1MzUD965Arp1RFP035gpeoQ-YI_tX7GHnjIzfxmuopq8/edit?usp=sharing) | ✅ |
+| **3.2** |extra info wordt weergegeven na doorklikken | [Analyse](../reports%20and%20protocols/Analyse%20develop%201.pdf) | ✅ |
+| **3.3** |Weergave van secundaire omgevingsdata zoals uur en weer worden weergegeven in een hoekje (actuele geloofwaardigheid) | [Analyse](../reports%20and%20protocols/Analyse%20develop%201.pdf) | ✅ |
 |**Interface Stofkeuze**|
-| **1.6** |De gebruiker kan onderaan het scherm de stofsoort (Katoen, Wol, etc.) selecteren. | [Rapport Wave 2](https://docs.google.com/document/d/1EZFO-_iupOLfHmlthpUT6_ApN1xEfJ4H2nmqUWEpunQ/edit?usp=sharing) | ✅ |
-|**Ergonomie**|
-| **1.7** |De bediening van de stofkeuze bevindt zich aan de onderzijde om schermblokkade door de hand te voorkomen. | [Rapport Wave 2](https://docs.google.com/document/d/1EZFO-_iupOLfHmlthpUT6_ApN1xEfJ4H2nmqUWEpunQ/edit?usp=sharing) | ✅ |
+| **4.1** |De gebruiker kan een stofsoort (lichte stoffen, gewoonlijke stoffen en zware stoffen) selecteren. | [Rapport Wave 2](https://docs.google.com/document/d/1EZFO-_iupOLfHmlthpUT6_ApN1xEfJ4H2nmqUWEpunQ/edit?usp=sharing) | ✅ |
 |**Dynamische Updates**|
-| **1.8** |De droogdata aan de rechterkant moet onmiddellijk updaten na wijziging van de stofkeuze. | [Rapport Wave 2](https://docs.google.com/document/d/1EZFO-_iupOLfHmlthpUT6_ApN1xEfJ4H2nmqUWEpunQ/edit?usp=sharing) | ✅ |
+| **5.1** |De droogdata moet wijzigen met het weer | [Analyse](../reports%20and%20protocols/Analyse%20develop%201.pdf) | ⚠️ |
+| **5.2** |De meldingen melden wijzigingen met het weer | [Analyse](../reports%20and%20protocols/Analyse%20develop%201.pdf) | ⚠️ |
 |**Terminologie**|
 | **1.9** |Gebruik van eenduidige termen zoals "Binnen" of "Over" in plaats van het verwarrende "In". | [Rapport Wave 2](https://docs.google.com/document/d/1EZFO-_iupOLfHmlthpUT6_ApN1xEfJ4H2nmqUWEpunQ/edit?usp=sharing) | ✅ |
 |**Iconografie**|
