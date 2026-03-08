@@ -39,8 +39,8 @@ Er is een specifieke benchmark uitgevoerd naar bestaande droog-apps om te bepale
 
 Documentatie:
 * Benchmarks (N=3)
-  * [Protocol](./reports%20and%20protocols/Protocol%20Benchmark%20analyse%20voor%20Laundry%20Drying%20Apps.pdf)
-  * [Rapport](./reports%20and%20protocols/Analyse%20Benchmark%20Analyse%20Laundry%20Drying%20Apps.pdf)
+  * [Protocol](../reports%20and%20protocols/Protocol%20Benchmark%20analyse%20voor%20Laundry%20Drying%20Apps.pdf)
+  * [Rapport](../reports%20and%20protocols/Analyse%20Benchmark%20Analyse%20Laundry%20Drying%20Apps.pdf)
 
 ### 6. Interviews
 
