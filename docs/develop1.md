@@ -1,4 +1,4 @@
-## Develop
+## Develop 1
 
 Tijdens de Develop-fase van het ontwerpproces is de interactie met het product tot in detail uitgediept. Het doel was om diepgaand inzicht te verkrijgen in de resterende frictiepunten binnen het ontwerp, zodat deze systematisch konden worden geëlimineerd. Door een combinatie van kwantitatieve analyses, visuele mapping en technische verkenningen is het concept van De Drooghulp verfijnd tot een gebruiksvriendelijke en technisch haalbare oplossing. De onderstaande tools en methodieken vormden de kern van deze Develop-fase.   
 
@@ -60,10 +60,11 @@ Prototype:
   <img src="img/Prototype wave 3.png" width="100%">
 </p>
 
-### 7. Interviews
+### 7. Interviews & Gebruikerstesten
 
-Er werden interviews gedaan aan de hand van het prototype dat werd ontwikkeld. Om inzicht te krijgen hoe goed de gebruiker met de interface kan omgaan en werd ook effectief in een test scenario geplaatst.
+Om de effectiviteit van de interface te valideren, zijn er kwalitatieve interviews en gebruikstesten uitgevoerd met het fysieke prototype. Testpersonen werden in een realistisch scenario geplaatst waarbij zij het volledige droogritueel doorliepen. Hierbij werd gebruikgemaakt van een 'Wizard of Oz'-opstelling (met externe speakers en sms-meldingen) om de interactieve ervaring van het gelaagde informatiemodel en de proactieve meldingen te simuleren. Dit gaf diepgaand inzicht in hoe gebruikers de informatie interpreteren en of het apparaat op de juiste momenten de gewenste ondersteuning biedt.
 
+Rapports(N=4):
   * [Protocol](../reports%20and%20protocols/Protocol%20test%203.pdf)
   * [Analyse](../reports%20and%20protocols/Analyse%20develop%201.pdf)
   
