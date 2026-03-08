@@ -74,4 +74,4 @@ Naast het softwarematige onderzoek en de functionele analyses, hebben we een tec
 - Temperatuur en Luchtvochtigheid: Voor het berekenen van de verdampingstijd. 
 - Beweging: Om te detecteren of de was buiten hangt of binnengehaald wordt. 
 - Geluid: Voor mogelijke feedback of statusmeldingen van wasmachines. 
-- Display: De Raspberry Pi maakt het mogelijk om direct een scherm aan te sluiten, wat cruciaal is voor de ultra eenvoudige UX en het direct beantwoorden van de hoofdvraag van de gebruiker.
+- Display: De Raspberry Pi maakt het mogelijk om direct een scherm aan te sluiten, wat cruciaal is voor de UX.
