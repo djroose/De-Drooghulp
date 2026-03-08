@@ -20,7 +20,11 @@ In de User Flows zijn de specifieke doelen van de gebruiker en de benodigde stap
 
 ### 3. Story Board
 
-Het storyboard werd nog verder in detail uitgewerkt.
+In deze stap is het storyboard verder verfijnd om de logische opeenvolging van handelingen te visualiseren. Dit omvat de notificatie bij een voltooide wasbeurt, de interactie met de 'Drooghulp'-interface voor een optimaal droogadvies, en de feedbackloop met de timer die aangeeft wanneer de was buiten droog is.
+
+<p align="center">
+  <img src="img/Costumer Journey.png" width="100%">
+</p>
 
 ### 4. Customer Journey
 
@@ -47,4 +51,8 @@ Documentatie:
 Er werd nieuwe prototype gemaakt aan de hand van een scherm. Het prototype focust op een betere info architectuur, lay out en gebruiksgemak. 
 Dit prototype werd getest aan de hand van interviews bij gebruikers.
 
+  * [Protocol](../reports%20and%20protocols/Protocol%20test%203.pdf)
+
 ### 7. secondary research 
+
+Naast het softwarematige onderzoek en de functionele analyses , hebben we een technische verkenning uitgevoerd naar de hardware voor het prototype van De Drooghulp. Hierbij zijn verschillende microcontrollers en computerplatforms onderzocht, waaronder de mogelijkheden van Arduino.Uiteindelijk is de keuze gevallen op een Raspberry Pi. De belangrijkste reden hiervoor is de behoefte aan een krachtig platform dat simultaan een groot aantal verschillende sensoren kan aansturen die essentieel zijn voor de nauwkeurigheid van het droogadvies. Voor het prototype willen we de volgende data integreren:Temperatuur en Luchtvochtigheid: Voor het berekenen van de verdampingstijd.Beweging: Om te detecteren of de was buiten hangt of binnengehaald wordt.Geluid: Voor mogelijke feedback of statusmeldingen van wasmachines.Display: De Raspberry Pi maakt het mogelijk om direct een scherm aan te sluiten, wat cruciaal is voor de ultra eenvoudige UX en het direct beantwoorden van de hoofdvraag van de gebruiker.
