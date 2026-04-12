@@ -1,27 +1,41 @@
-## Develop 1
+## Develop 2
 
-Tijdens de Develop-fase van het ontwerpproces is de interactie met het product tot in detail uitgediept. Het doel was om diepgaand inzicht te verkrijgen in de resterende frictiepunten binnen het ontwerp, zodat deze systematisch konden worden geëlimineerd. Door een combinatie van kwantitatieve analyses, visuele mapping en technische verkenningen is het concept van De Drooghulp verfijnd tot een gebruiksvriendelijke en technisch haalbare oplossing. De onderstaande tools en methodieken vormden de kern van deze Develop-fase.   
+In deze fase verschuiven we de focus van de functionele architectuur ("hoe het werkt") naar de menselijke ervaring ("hoe het voelt"). Het doel is om een frictieloze usability te garanderen door middel van een onderbouwd ergonomisch ontwerp en een interactief, testbaar prototype. 
 
 
-### 1. Top task analysis
+### 1. Antropometrie (The Body)
 
-De functies van het product zijn op een Long Neck / Long Tail grafiek geplaatst om inzicht te krijgen in welke functies het belangrijkste zijn. Deze analyse helpt om de focus van het product te bepalen op de "kerntaken" (zoals de beste droogoptie en weersvoorspelling) die de meeste waarde leveren voor de gebruiker.
+Om een inclusief ontwerp te garanderen voor zowel kleine als grote gebruikers, hanteren we de strategie "Design for the Range" (P5 vrouw tot P95 man).
+Touchpoints:
+•	Interactieve knoppen: Afmetingen zijn gebaseerd op de P95 breedte van de mannelijke duim om het "fat finger"-syndroom te voorkomen.
+•	Behuizing & Montage: De vorm van de achterplaat suggereert intuïtief de wandmontage (Affordance).
+•	Display: Geplaatst op een hoogte die rekening houdt met de ooghoogte van de P5 vrouw en P95 man.
+Methode:
+De fysieke plaatsing wordt geëvalueerd via een antropometrische analyse:
+•	Centrale hoogte: Het scherm wordt op circa 150 cm geplaatst om bukken of extreem omhoog kijken te voorkomen.
+•	Zichthoek: Het scherm wordt 10° naar boven gekanteld om een optimale kijkhoek van 15° tot 30° onder de horizontale ooglijn te faciliteren.
+•	Reikwijdte: Alle interactieve elementen bevinden zich binnen de functional reach van een P5-vrouw.
 
-<p align="center">
-  <img src="img/Top Task Analysis.png" width="100%">
-</p>
 
-### 2. User flows
 
-In de User Flows zijn de specifieke doelen van de gebruiker en de benodigde stappen daarnaartoe gemapt. Dit proces was essentieel om frictiepunten in het ontwerp te ontdekken. Voor elk knelpunt zijn er gerichte oplossingen gezocht, waardoor de interface van De Drooghulp intuïtief blijft en de gebruiker gemakkelijk tot zijn doel komt.
 
-<p align="center">
-  <img src="img/User Flows.png" width="100%">
-</p>
+### 2. Cognitieve & Sensoriële Ergonomie (The Senses)
 
-### 3. Story Board
+We passen theoretische kaders toe om de mentale inspanning (cognitive load) te minimaliseren.
+•	7 Stages of Action (Don Norman): We overbruggen de kloof van executie door sterke Signifiers (knoppen zien er klikbaar uit door schaduwen) en de kloof van evaluatie door directe Feedback binnen 100ms na interactie.
+•	GESTALT-wetten: Toepassing van de wet van nabijheid (groeperen van sensordata) en de wet van gelijkenis (uniforme kleuren voor actieknoppen) voor snelle visuele scanning.
+•	Informatieverwerking: Gebruik van Chunking (data verdelen in 'huidig', 'verwachting' en 'conclusie') en Recognition over Recall (het systeem rekent, de gebruiker kiest).
 
-In deze stap is het storyboard verder verfijnd om de logische opeenvolging van handelingen te visualiseren. Dit omvat de notificatie bij een voltooide wasbeurt, de interactie met de 'Drooghulp'-interface voor een optimaal droogadvies, en de feedbackloop met de timer die aangeeft wanneer de was buiten droog is.
+
+
+### 3. Methodiek: User Testing
+
+Steekproef: De tests worden uitgevoerd met een representatieve groep (minimaal groepsgrootte + 2 respondenten).
+Testprotocol: We maken gebruik van het Think Aloud Protocol. Gebruikers krijgen drie verschillende interfaces (A, B en C) te zien om confirmation bias te vermijden. De test bevat drie scenario's:
+1.	Dagelijkse routine: De meest duurzame/goedkope keuze maken.
+2.	Urgentie: Het bepalen van de snelste droogmethode onder tijdsdruk.
+3.	Vertrouwen: Verificatie van het advies via sensordata bij twijfelachtig weer.
+
 
 <p align="center">
   <img src="img/Storyboard develop.png" width="100%">
@@ -69,7 +83,7 @@ Rapports(N=4):
   * [Analyse](../reports%20and%20protocols/Analyse%20develop%201.pdf)
   
 
-### 8. Secondary research 
+### Kritische Reflectie
 
 Naast het softwarematige onderzoek en de functionele analyses, hebben we een technische verkenning uitgevoerd naar de hardware voor het prototype van De Drooghulp. Hierbij zijn verschillende microcontrollers en computerplatforms onderzocht, waaronder de mogelijkheden van Arduino. Uiteindelijk is de keuze gevallen op een Raspberry Pi. De belangrijkste reden hiervoor is de behoefte aan een krachtig platform dat simultaan een groot aantal verschillende sensoren kan aansturen die essentieel zijn voor de nauwkeurigheid van het droogadvies. Voor het prototype willen we de volgende data integreren: 
 - Temperatuur en Luchtvochtigheid: Voor het berekenen van de verdampingstijd. 
