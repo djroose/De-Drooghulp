@@ -45,19 +45,19 @@ Om meerdere soorten interface indelingen te testen maakten we 2 nieuwe interacti
   <img src="img/Simpelere interface visueel sterk uitgewerkt.png" width="100%">
 </p>
    https://www.figma.com/make/eZPW0BnClApe49g8YHyUMO/Drooghulp-interface-ontwerp?p=f&t=NMr2d6Sv9QcEJlpp-0&fullscreen=1
-<br/>
+</p>
 
 <p align="center">
   <img src="img/simpele interface.png" width="100%">
 </p>
    https://www.figma.com/make/7309jMH7ZI871FKBrxq22L/Drying-Assistant-Mobile-App?p=f&t=sFJvCSBbV3VuNE8k-0&fullscreen=1
-<br/>
+</p>
 
 <p align="center">
   <img src="img/upgrade develop 1 interface.png" width="100%">
 </p>
    https://www.figma.com/make/KFGs5Qj9Rqt3SuG3kG3caE/Mobiel-startscherm-slimme-was-assistent--Copy-?p=f&t=eOJxrHsdTcD9R4hi-0&fullscreen=1
-<br/>
+</p>
 
 ### 5. Testen
 
