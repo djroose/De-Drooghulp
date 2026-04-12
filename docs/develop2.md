@@ -45,26 +45,26 @@ Om meerdere soorten interface indelingen te testen maakten we 2 nieuwe interacti
   <img src="img/Simpelere interface visueel sterk uitgewerkt.png" width="100%">
 </p>
    https://www.figma.com/make/eZPW0BnClApe49g8YHyUMO/Drooghulp-interface-ontwerp?p=f&t=NMr2d6Sv9QcEJlpp-0&fullscreen=1
-
+<br/>
 
 <p align="center">
   <img src="img/simpele interface.png" width="100%">
 </p>
    https://www.figma.com/make/7309jMH7ZI871FKBrxq22L/Drying-Assistant-Mobile-App?p=f&t=sFJvCSBbV3VuNE8k-0&fullscreen=1
-
+<br/>
 
 <p align="center">
   <img src="img/upgrade develop 1 interface.png" width="100%">
 </p>
    https://www.figma.com/make/KFGs5Qj9Rqt3SuG3kG3caE/Mobiel-startscherm-slimme-was-assistent--Copy-?p=f&t=eOJxrHsdTcD9R4hi-0&fullscreen=1
-
+<br/>
 
 ### 5. Testen
 
 De touchscreen wordt in de wasruimte geplaatst op een hoogte van ongeveer 150cm en wordt 10° gekanteld naar boven. De antropometrische studie leerde ons dat dit de optimale locatie is voor een scherm dat rechtstaand bediend moest worden. Of dat dit ook zo is wordt hier dus getest. Aangezien de opstelling met een ketting is vastgemaakt was de hoogte verstelbaar. Hierna werden de 3 figma make intefaces op het touchscreen gezet.
 
 <p align="center">
-  <img src="img/testopstelling.png" width="100%">
+  <img src="img/testopstelling.jpg" width="100%">
 </p>
 
 Rapports(N=4):
