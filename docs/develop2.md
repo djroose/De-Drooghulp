@@ -7,14 +7,14 @@ In deze fase verschuiven we de focus van de functionele architectuur ("hoe het w
 
 Om een inclusief ontwerp te garanderen voor zowel kleine als grote gebruikers, hanteren we de strategie "Design for the Range" (P5 vrouw tot P95 man).
 Touchpoints:
-•	Interactieve knoppen: Afmetingen zijn gebaseerd op de P95 breedte van de mannelijke duim om het "fat finger"-syndroom te voorkomen.
-•	Behuizing & Montage: De vorm van de achterplaat suggereert intuïtief de wandmontage (Affordance).
-•	Display: Geplaatst op een hoogte die rekening houdt met de ooghoogte van de P5 vrouw en P95 man.
+-	Interactieve knoppen: Afmetingen zijn gebaseerd op de P95 breedte van de mannelijke duim om het "fat finger"-syndroom te voorkomen.
+-	Behuizing & Montage: De vorm van de achterplaat suggereert intuïtief de wandmontage (Affordance).
+-	Display: Geplaatst op een hoogte die rekening houdt met de ooghoogte van de P5 vrouw en P95 man.
 Methode:
 De fysieke plaatsing wordt geëvalueerd via een antropometrische analyse:
-•	Centrale hoogte: Het scherm wordt op circa 150 cm geplaatst om bukken of extreem omhoog kijken te voorkomen.
-•	Zichthoek: Het scherm wordt 10° naar boven gekanteld om een optimale kijkhoek van 15° tot 30° onder de horizontale ooglijn te faciliteren.
-•	Reikwijdte: Alle interactieve elementen bevinden zich binnen de functional reach van een P5-vrouw.
+-	Centrale hoogte: Het scherm wordt op circa 150 cm geplaatst om bukken of extreem omhoog kijken te voorkomen.
+-	Zichthoek: Het scherm wordt 10° naar boven gekanteld om een optimale kijkhoek van 15° tot 30° onder de horizontale ooglijn te faciliteren.
+-	Reikwijdte: Alle interactieve elementen bevinden zich binnen de functional reach van een P5-vrouw.
 
 
 
@@ -22,9 +22,9 @@ De fysieke plaatsing wordt geëvalueerd via een antropometrische analyse:
 ### 2. Cognitieve & Sensoriële Ergonomie (The Senses)
 
 We passen theoretische kaders toe om de mentale inspanning (cognitive load) te minimaliseren.
-•	7 Stages of Action (Don Norman): We overbruggen de kloof van executie door sterke Signifiers (knoppen zien er klikbaar uit door schaduwen) en de kloof van evaluatie door directe Feedback binnen 100ms na interactie.
-•	GESTALT-wetten: Toepassing van de wet van nabijheid (groeperen van sensordata) en de wet van gelijkenis (uniforme kleuren voor actieknoppen) voor snelle visuele scanning.
-•	Informatieverwerking: Gebruik van Chunking (data verdelen in 'huidig', 'verwachting' en 'conclusie') en Recognition over Recall (het systeem rekent, de gebruiker kiest).
+-	7 Stages of Action (Don Norman): We overbruggen de kloof van executie door sterke Signifiers (knoppen zien er klikbaar uit door schaduwen) en de kloof van evaluatie door directe Feedback binnen 100ms na interactie.
+-	GESTALT-wetten: Toepassing van de wet van nabijheid (groeperen van sensordata) en de wet van gelijkenis (uniforme kleuren voor actieknoppen) voor snelle visuele scanning.
+-	Informatieverwerking: Gebruik van Chunking (data verdelen in 'huidig', 'verwachting' en 'conclusie') en Recognition over Recall (het systeem rekent, de gebruiker kiest).
 
 
 
@@ -46,15 +46,18 @@ Om meerdere soorten interface indelingen te testen maakten we 2 nieuwe interacti
 </p>
    https://www.figma.com/make/eZPW0BnClApe49g8YHyUMO/Drooghulp-interface-ontwerp?p=f&t=NMr2d6Sv9QcEJlpp-0&fullscreen=1
 
+
 <p align="center">
   <img src="img/simpele interface.png" width="100%">
 </p>
    https://www.figma.com/make/7309jMH7ZI871FKBrxq22L/Drying-Assistant-Mobile-App?p=f&t=sFJvCSBbV3VuNE8k-0&fullscreen=1
 
+
 <p align="center">
   <img src="img/upgrade develop 1 interface.png" width="100%">
 </p>
    https://www.figma.com/make/KFGs5Qj9Rqt3SuG3kG3caE/Mobiel-startscherm-slimme-was-assistent--Copy-?p=f&t=eOJxrHsdTcD9R4hi-0&fullscreen=1
+
 
 ### 5. Testen
 
