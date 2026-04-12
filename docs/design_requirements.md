@@ -5,6 +5,7 @@
 | --- | --- | --- | --- |
 |**Interface Layout**|
 | **1.1** |1 Duidelijke voorkeuroptie als advies met doorklik optie voor meer info | [Analyse](../reports%20and%20protocols/Analyse%20develop%201.pdf) | ✅ |
+| **1.2** |een antwoord op de vraag van de gebruiker kunnen bieden in minder dan 3 kliks. | [Document 2](../project%20gebruiksgericht%20ontwerpen/github/De-Drooghulp/reports%20and%20protocols/Document%202%20Analyse%20testen%20&%20design%20requirments%20.pdf) | ✅ |
 |**Visuele Rangschikking**|
 | **2.1** |De iconen lichten op in Groen (Aanbevolen), Oranje (Mogelijk) of Rood (Afgeraden). | [Rapport Wave 2](https://docs.google.com/document/d/1EZFO-_iupOLfHmlthpUT6_ApN1xEfJ4H2nmqUWEpunQ/edit?usp=sharing) | ✅ |
 |**Data Hiërarchie**|
