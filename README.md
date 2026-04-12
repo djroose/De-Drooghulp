@@ -5,7 +5,7 @@ De drooghulp is een slim apparaatje dat helpt de beste manier te kiezen om de wa
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*15/02/2026 van de laatste update*   
+*13/04/2026 van de laatste update*   
 
 ## Samenvatting
 "Met het wisselvallige Belgische weer is het lastig te voorspellen of je de was buiten kunt hangen. Ook binnen drogen is niet altijd ideaal. De droogkast is dan vaak de makkelijkste, maar helaas ook de minst ecologische keuze.

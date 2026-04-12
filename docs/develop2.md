@@ -28,13 +28,9 @@ We passen theoretische kaders toe om de mentale inspanning (cognitive load) te m
 
 
 
-### 3. Methodiek: User Testing
+### 3. Onderzoek vorige interface
 
-Steekproef: De tests worden uitgevoerd met een representatieve groep (minimaal groepsgrootte + 2 respondenten).
-Testprotocol: We maken gebruik van het Think Aloud Protocol. Gebruikers krijgen drie verschillende interfaces (A, B en C) te zien om confirmation bias te vermijden. De test bevat drie scenario's:
-1.	Dagelijkse routine: De meest duurzame/goedkope keuze maken.
-2.	Urgentie: Het bepalen van de snelste droogmethode onder tijdsdruk.
-3.	Vertrouwen: Verificatie van het advies via sensordata bij twijfelachtig weer.
+Om een beter beeld te krijgen van de werking van de vorige interface hebben we visueel de werking in kaart gebracht. Dit gaf ons het inzicht dat veel info te ver verstopt zat. 
 
 
 <p align="center">
