@@ -34,17 +34,15 @@ Om een beter beeld te krijgen van de werking van de vorige interface hebben we v
 
 
 <p align="center">
-  <img src="img/Storyboard develop.png" width="100%">
+  <img src="img/interface wave 3 uitgezet.png" width="100%">
 </p>
 
-### 4. Customer Journey
+### 4. Prototyping
 
-In het ontwerpproces is het "Was Ritueel" visueel in kaart gebracht middels een Customer Journey. Hiermee zijn de acties, emoties en motivaties van de gebruiker gedurende het gehele proces (van awareness tot het verzamelen van de droge was) inzichtelijk gemaakt.
-
-Door deze reis stap voor stap te analyseren, zijn de kritieke pijnpunten blootgelegd, met name tijdens de wachtmomenten en de onzekerheid over droogtijden. Dit vormde de basis voor het definiëren van de functionele vereisten voor De Drooghulp, waarbij de focus ligt op het wegnemen van frustratie door proactieve meldingen en nauwkeurige voorspellingen.
+Om meerdere soorten interface indelingen te testen maakten we 2 nieuwe interactieve interfaces en gaven we de interface van develop 1 een upgrade. Deze interfaces zijn uit te testen met onderstaande links.
 
 <p align="center">
-  <img src="img/Costumer Journey.png" width="100%">
+  <img src="img/Schermafbeelding 2026-04-12 210827.png" width="100%">
 </p>
 
 
