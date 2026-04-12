@@ -42,39 +42,34 @@ Om een beter beeld te krijgen van de werking van de vorige interface hebben we v
 Om meerdere soorten interface indelingen te testen maakten we 2 nieuwe interactieve interfaces en gaven we de interface van develop 1 een upgrade. Deze interfaces zijn uit te testen met onderstaande links.
 
 <p align="center">
-  <img src="img/Schermafbeelding 2026-04-12 210827.png" width="100%">
+  <img src="img/Simpelere interface visueel sterk uitgewerkt.png" width="100%">
 </p>
-
-
-### 5. Benchmark analyse
-
-Er is een specifieke benchmark uitgevoerd naar bestaande droog-apps om te bepalen waar huidige oplossingen tekortschieten. Hieruit bleek dat apps zoals Washcast en Drying Buddy vooral focussen op buiten drogen. Dit bevestigde de noodzaak voor De Drooghulp om in te zetten op ontbrekende functies zoals indoor drying intelligence en smart home integratie.
-
-Documentatie:
-* Benchmarks (N=3)
-  * [Protocol](../reports%20and%20protocols/Protocol%20Benchmark%20analyse%20voor%20Laundry%20Drying%20Apps.pdf)
-  * [Rapport](../reports%20and%20protocols/Analyse%20Benchmark%20Analyse%20Laundry%20Drying%20Apps.pdf)
-
-### 6. Prototype
-
-Na het verzamelen van diepgaande inzichten in de gebruiker en de tekortkomingen van de huidige markt, is een fysiek prototype ontwikkeld. Dit prototype vormt de brug tussen de digitale intelligentie en de fysieke wasruimte. De focus ligt hierbij op het presenteren van een centrale interface die direct bij de wasmachine of droogkast geplaatst wordt, met een geoptimaliseerde informatiearchitectuur en lay-out voor maximaal gebruiksgemak.
-
-Prototype:
-
-    https://www.figma.com/make/3kj79Z1ZVnqXamjAskY5oq/Mobiel-startscherm-slimme-was-assistent?fullscreen=1&t=N7b5oIxtJ4CzQWrN-1 
-
+   https://www.figma.com/make/eZPW0BnClApe49g8YHyUMO/Drooghulp-interface-ontwerp?p=f&t=NMr2d6Sv9QcEJlpp-0&fullscreen=1
 
 <p align="center">
-  <img src="img/Prototype wave 3.png" width="100%">
+  <img src="img/simpele interface.png" width="100%">
+</p>
+   https://www.figma.com/make/7309jMH7ZI871FKBrxq22L/Drying-Assistant-Mobile-App?p=f&t=sFJvCSBbV3VuNE8k-0&fullscreen=1
+
+<p align="center">
+  <img src="img/upgrade develop 1 interface.png" width="100%">
+</p>
+   https://www.figma.com/make/KFGs5Qj9Rqt3SuG3kG3caE/Mobiel-startscherm-slimme-was-assistent--Copy-?p=f&t=eOJxrHsdTcD9R4hi-0&fullscreen=1
+
+### 5. Testen
+
+De touchscreen wordt in de wasruimte geplaatst op een hoogte van ongeveer 150cm en wordt 10° gekanteld naar boven. De antropometrische studie leerde ons dat dit de optimale locatie is voor een scherm dat rechtstaand bediend moest worden. Of dat dit ook zo is wordt hier dus getest. Aangezien de opstelling met een ketting is vastgemaakt was de hoogte verstelbaar. Hierna werden de 3 figma make intefaces op het touchscreen gezet.
+
+<p align="center">
+  <img src="img/testopstelling.png" width="100%">
 </p>
 
-### 7. Interviews & Gebruikerstesten
-
-Om de effectiviteit van de interface te valideren, zijn er kwalitatieve interviews en gebruikstesten uitgevoerd met het fysieke prototype. Testpersonen werden in een realistisch scenario geplaatst waarbij zij het volledige droogritueel doorliepen. Hierbij werd gebruikgemaakt van een 'Wizard of Oz'-opstelling (met externe speakers en sms-meldingen) om de interactieve ervaring van het gelaagde informatiemodel en de proactieve meldingen te simuleren. Dit gaf diepgaand inzicht in hoe gebruikers de informatie interpreteren en of het apparaat op de juiste momenten de gewenste ondersteuning biedt.
-
 Rapports(N=4):
-  * [Protocol](../reports%20and%20protocols/Protocol%20test%203.pdf)
-  * [Analyse](../reports%20and%20protocols/Analyse%20develop%201.pdf)
+  * [Protocol](../reports%20and%20protocols/Interviewprotocol%20DEV2.pdf)
+  * [Analyse](../reports%20and%20protocols/Document%202%20Analyse%20testen%20%26%20design%20requirments%20.pdf)
+
+
+
   
 
 ### Kritische Reflectie
