@@ -5,7 +5,7 @@ De drooghulp is een slim apparaatje dat helpt de beste manier te kiezen om de wa
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*15/02/2026 van de laatste update*   
+*13/04/2026 van de laatste update*   
 
 ## Samenvatting
 "Met het wisselvallige Belgische weer is het lastig te voorspellen of je de was buiten kunt hangen. Ook binnen drogen is niet altijd ideaal. De droogkast is dan vaak de makkelijkste, maar helaas ook de minst ecologische keuze.
@@ -31,9 +31,10 @@ De drooghulp die wij ontwikkelen moet de duurzame opties weer vanzelfsprekend ma
 1. [Methodologie](./docs/methodologie.md)
 2. [Discovery](./docs/discovery.md)
 3. [Defintion](./docs/definition.md)
-4. [Develop](./docs/develop1.md)
-4. [Design Requirements](./docs/design_requirements.md)
-5. [Bill of materials](./docs/bom.md)
+4. [Develop 1](./docs/develop1.md)
+5. [Develop 2](./docs/develop2.md)
+6. [Design Requirements](./docs/design_requirements.md)
+7. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
 Geen enkel project is perfect of ooit echt 'af'. Wij hebben ons best gedaan om met zoveel mogelijk factoren rekening te houden, maar beseffen dat het onmogelijk is om alles af te dekken. Hieronder volgt een opsomming van potentiële obstakels voor de werking van de drooghulp. Waar mogelijk zullen we in de verdere uitwerking naar oplossingen zoeken.
