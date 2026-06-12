@@ -5,7 +5,7 @@ De drooghulp is een slim apparaatje dat helpt de beste manier te kiezen om de wa
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*13/04/2026 van de laatste update*   
+*12/06/2026 van de laatste update*   
 
 ## Samenvatting
 "Met het wisselvallige Belgische weer is het lastig te voorspellen of je de was buiten kunt hangen. Ook binnen drogen is niet altijd ideaal. De droogkast is dan vaak de makkelijkste, maar helaas ook de minst ecologische keuze.
@@ -15,9 +15,9 @@ Uit onze interviews over drooggewoontes blijkt dat de angst voor vocht en geurov
 Onze 'drooghulp' adviseert wat de beste droogoptie is, met als doel de droogkast zo min mogelijk te gebruiken. Dit is beter voor de planeet én voor je portemonnee. Het systeem analyseert weersvoorspellingen (voor buitendrogen) en voert zelf metingen uit om te zien of binnen drogen mogelijk is. Is de droogkast toch de enige optie? Dan checkt de hulp of het slim is om even te wachten tot het daltarief ingaat."
 
 <p align="center">
-  <img src="img/Prototype wave 3.png" width="100%">
+  <img src="img/finaal_hero_shot.png" width="100%">
 </p>
-
+  
 ## Introductie
 De opdracht was helder: ontwerp een fysiek product dat een probleem oplost en leidt tot een duurzamere uitkomst.
 
@@ -36,6 +36,7 @@ De drooghulp die wij ontwikkelen moet de duurzame opties weer vanzelfsprekend ma
 6. [Develop 3](./docs/develop3.md)
 7. [Design Requirements](./docs/design_requirements.md)
 8. [Bill of materials](./docs/bom.md)
+9. [Conclusion](./docs/conclusion.md)
 
 ## Kritische reflectie
 Geen enkel project is perfect of ooit echt 'af'. Wij hebben ons best gedaan om met zoveel mogelijk factoren rekening te houden, maar beseffen dat het onmogelijk is om alles af te dekken. Hieronder volgt een opsomming van potentiële obstakels voor de werking van de drooghulp. Waar mogelijk zullen we in de verdere uitwerking naar oplossingen zoeken.
@@ -70,8 +71,25 @@ Ai is gebruikt om Taalfouten uit onze tekst te halen en de tekst vloeiend leesba
   * [Protocol](./reports%20and%20protocols/Officieel%20Protocol%20Wave%202%20.pdf)
   * [Rapport](./reports%20and%20protocols/Officieel%20Rapport%20Test%20Wave%202.pdf)
 
+### Develop 1
+* User tests (N=4):
+  * [Protocol](./reports%20and%20protocols/Protocol%20test%203.pdf)
+  * [Analyse](./reports%20and%20protocols/Analyse%20develop%201.pdf)
+  
+
+### Develop 2
+* User tests (N=4):
+  * [Protocol](./reports%20and%20protocols/Interviewprotocol%20DEV2.pdf)
+  * [Analyse](./reports%20and%20protocols/Document%202%20Analyse%20testen%20%26%20design%20requirments%20.pdf)
+
+### Develop 3
+* AI-analyse(N=8):
+  * [Onderzoek](./reports%20and%20protocols/Develop%203%20-%20CMF%20onderzoek.pdf)
+* User tests (N=4):
+  * [Protocol](./reports%20and%20protocols/Develop%203%20-%20CMF%20protocol.pdf)
+  * [Analyse](./reports%20and%20protocols/Develop%203%20-%20CMF%20analyse.pdf)
+
 ## Licentie
-> :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 
