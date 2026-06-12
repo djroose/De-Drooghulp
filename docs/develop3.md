@@ -22,17 +22,17 @@ Na het genereren van meer dan dertig varianten, zijn er drie distinctieve archet
   <img src="img/Iteraties.png" width="100%">
 </p>
 
-Variant 1 — 'The Clean Standard': Vervaardigd uit mat wit ABS-polymeer met een semi-gloss behuizing en glad glas. Dit archetype is ontworpen om een viscerale match te vormen met bestaand witgoed, waardoor de psychologische adoptiedrempel verlaagt.
+Variant 1 'The Clean Standard': Vervaardigd uit mat wit ABS-polymeer met een semi-gloss behuizing en glad glas. Dit archetype is ontworpen om een viscerale match te vormen met bestaand witgoed, waardoor de psychologische adoptiedrempel verlaagt.
 <p align="center">
   <img src="img/1ste_variant.png" width="100%">
 </p>
 
-Variant 2 — 'The Natural Home': Combineert licht essenhout met saliegroen vilt en een ultra-matte finish. Het positioneert de assistent als een rustgevend meubelstuk dat de technologische aanwezigheid verzacht.  
+Variant 2 'The Natural Home': Combineert licht essenhout met saliegroen vilt en een ultra-matte finish. Het positioneert de assistent als een rustgevend meubelstuk dat de technologische aanwezigheid verzacht.  
 <p align="center">
   <img src="img/2de_variant.png" width="100%">
 </p>
 
-Variant 3 — 'The Tech Authority': Gemaakt van geanodiseerd aluminium (Deep Navy/Charcoal) met anti-fingerprint coating. Het straalt een 'investor-ready' autoriteit en bekwaamheid uit, met als doel de gebruiker te motiveren het technische advies op te volgen.
+Variant 3 'The Tech Authority': Gemaakt van geanodiseerd aluminium (Deep Navy/Charcoal) met anti-fingerprint coating. Het straalt een 'investor-ready' autoriteit en bekwaamheid uit, met als doel de gebruiker te motiveren het technische advies op te volgen.
 <p align="center">
   <img src="img/3de_variant.png" width="100%">
 </p>
