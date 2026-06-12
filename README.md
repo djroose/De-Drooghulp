@@ -15,9 +15,9 @@ Uit onze interviews over drooggewoontes blijkt dat de angst voor vocht en geurov
 Onze 'drooghulp' adviseert wat de beste droogoptie is, met als doel de droogkast zo min mogelijk te gebruiken. Dit is beter voor de planeet én voor je portemonnee. Het systeem analyseert weersvoorspellingen (voor buitendrogen) en voert zelf metingen uit om te zien of binnen drogen mogelijk is. Is de droogkast toch de enige optie? Dan checkt de hulp of het slim is om even te wachten tot het daltarief ingaat."
 
 <p align="center">
-  <img src="img/Prototype wave 3.png" width="100%">
+  <img src="img/finaal_hero_shot.png" width="100%">
 </p>
-
+  
 ## Introductie
 De opdracht was helder: ontwerp een fysiek product dat een probleem oplost en leidt tot een duurzamere uitkomst.
 
@@ -85,7 +85,7 @@ Ai is gebruikt om Taalfouten uit onze tekst te halen en de tekst vloeiend leesba
 ### Develop 3
 * AI-analyse(N=8):
   * [Onderzoek](./reports%20and%20protocols/Develop%203%20-%20CMF%20onderzoek.pdf)
-* User tests (N=8):
+* User tests (N=4):
   * [Protocol](./reports%20and%20protocols/Develop%203%20-%20CMF%20protocol.pdf)
   * [Analyse](./reports%20and%20protocols/Develop%203%20-%20CMF%20analyse.pdf)
 
