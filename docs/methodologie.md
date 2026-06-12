@@ -1,7 +1,7 @@
 Voor dit project pasten we de Double Diamond-methodologie toe. In het eerste semester lag de focus op het doorgronden van het probleem en het definiëren van de oplossing.
 
 <p align="center">
-  <img src="img/final methodologie.png" width="100%">
+  <img src="img/final methedilogie.png" width="100%">
 </p>
 
 Het proces werd geïnitieerd vanuit de volgende voorlopige 'How Might We' (HMW)-vraag:
