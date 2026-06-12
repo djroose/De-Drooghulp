@@ -33,8 +33,9 @@ De drooghulp die wij ontwikkelen moet de duurzame opties weer vanzelfsprekend ma
 3. [Defintion](./docs/definition.md)
 4. [Develop 1](./docs/develop1.md)
 5. [Develop 2](./docs/develop2.md)
-6. [Design Requirements](./docs/design_requirements.md)
-7. [Bill of materials](./docs/bom.md)
+6. [Develop 3](./docs/develop3.md)
+7. [Design Requirements](./docs/design_requirements.md)
+8. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
 Geen enkel project is perfect of ooit echt 'af'. Wij hebben ons best gedaan om met zoveel mogelijk factoren rekening te houden, maar beseffen dat het onmogelijk is om alles af te dekken. Hieronder volgt een opsomming van potentiële obstakels voor de werking van de drooghulp. Waar mogelijk zullen we in de verdere uitwerking naar oplossingen zoeken.
