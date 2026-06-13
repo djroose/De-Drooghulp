@@ -29,7 +29,7 @@ Start met de componenten te schakelen zoals hieronder is weergegeven.
   <img src="img/Afbeelding1.jpg" width="100%">
 </p>
 Schroef de rasberry pi op het scherm en verbindt de lintkabel.
-Nu is het moment om het systeem te testen en te debuggen. Via deze [link](https://github.com/JutteDeBaets/drooghulp-code.git) vind je de github die de code draait voor het systeem. (Vergeet niet de library’s te installeren.)
+Nu is het moment om het systeem te testen en te debuggen. Via deze [link](https://github.com/JutteDeBaets/drooghulp-code) vind je de github die de code draait voor het systeem. (Vergeet niet de library’s te installeren.)
 
 ### 3d printen
 3d print de bestanden (deze vindt je [hier](./cad/README.md)) moet volgende instellingen: tree support, een fuzzy skin met punt afstand 0.4 en dikte 0.2 en de behuizing gekanteld zoals op de afbeelding zodat printlijnen minder zichtbaar ogen.

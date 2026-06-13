@@ -38,6 +38,18 @@ De drooghulp die wij ontwikkelen moet de duurzame opties weer vanzelfsprekend ma
 8. [Bill of materials (BOM) + Bouwinstructies](./docs/Bill%20of%20Materials%20(BOM)%20+%20Bouwinstructies.md)
 9. [Conclusion](./docs/conclusion.md)
 
+
+## Video
+<iframe
+    width="560"
+    height="315"
+    src="https://youtu.be/RMGo6WjhGeM"
+    title="Drooghulp-video"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
+
+
 ## Kritische reflectie
 Geen enkel project is perfect of ooit echt 'af'. Wij hebben ons best gedaan om met zoveel mogelijk factoren rekening te houden, maar beseffen dat het onmogelijk is om alles af te dekken. Hieronder volgt een opsomming van potentiële obstakels voor de werking van de drooghulp. Waar mogelijk zullen we in de verdere uitwerking naar oplossingen zoeken.
 
