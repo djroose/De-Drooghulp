@@ -1,3 +1,3 @@
-[submodule "drooghulp"]
+[submodule "drooghulp-code"]
 	path = drooghulp
-	url = https://github.com/JutteDeBaets/drooghulp
+	url = https://github.com/JutteDeBaets/drooghulp-code
