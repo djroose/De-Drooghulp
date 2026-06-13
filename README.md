@@ -43,7 +43,7 @@ De drooghulp die wij ontwikkelen moet de duurzame opties weer vanzelfsprekend ma
 <iframe
     width="560"
     height="315"
-    src="https://youtu.be/RMGo6WjhGeM"
+    src="https://www.youtube.com/embed/RMGo6WjhGeM"
     title="Drooghulp-video"
     frameborder="0"
     allowfullscreen>
