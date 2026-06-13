@@ -16,7 +16,7 @@ Dit document bevat de volledige lijst met componenten, specificaties en de gesch
 | **Sound sensor** | Seeed Studio Sound Sensor Grove System | [RS-online](https://benl.rs-online.com/web/p/sensor-development-tools/1743255) | € 3,44 |
 | **Analog to digital converter** | ADC Pmod AD1 | [RS-online](https://benl.rs-online.com/web/p/signal-conversion-development-tools/1346443) | € 28,66 |
 | **Jumperdraden** | Set Male/Female & Female/Female | [Gotron](https://www.gotron.be/jumper-kabel-mannelijk-vrouwelijk-40-x-18cm.html) | € 4,50 |
-| **Behuizing** | 170g (3d geprint) | [3mf-bestanden](./cad/README.md) | ~ € 3,50 |
+| **Behuizing** | 170g (3d geprint) | [3mf-bestanden](../cad/README.md) | ~ € 3,50 |
 | **Vijsjes** | 200 stuks plaatschroef verzinkt verzonken kop 3,5 x 9,5 mm | [Ecotools](https://www.ecotools.be/200stuks-verzinkte-plaatschroef-verzonken-3-5x9-5-mm?gad_source=1&gad_campaignid=23725382052&gclid=Cj0KCQjw_7PRBhDcARIsAMjV7jmjKEYO-8XQVws-kxuUlLlNSls5P48FJXvvkoZzqc7jK9M2gftM3_IaAmmAEALw_wcB) | € 4,25 |
 | **TOTAAL** | | | **€ 172,2- € 182,2** |
 
@@ -32,7 +32,7 @@ Schroef de rasberry pi op het scherm en verbindt de lintkabel.
 Nu is het moment om het systeem te testen en te debuggen. Via deze [hier](https://github.com/JutteDeBaets/drooghulp-code) vind je de github die de code draait voor het systeem. (Vergeet niet de library’s te installeren.)
 
 ### 3d printen
-3d print de bestanden (deze vindt je [hier](./cad/README.md)) moet volgende instellingen: tree support, een fuzzy skin met punt afstand 0.4 en dikte 0.2 en de behuizing gekanteld zoals op de afbeelding zodat printlijnen minder zichtbaar ogen.
+3d print de bestanden (deze vindt je [hier](../cad/README.md)) moet volgende instellingen: tree support, een fuzzy skin met punt afstand 0.4 en dikte 0.2 en de behuizing gekanteld zoals op de afbeelding zodat printlijnen minder zichtbaar ogen.
 <p align="center">
   <img src="img/Afbeelding2.png" width="100%">
 </p>
