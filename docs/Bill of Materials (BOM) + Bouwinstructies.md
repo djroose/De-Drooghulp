@@ -19,3 +19,7 @@ Dit document bevat de volledige lijst met componenten, specificaties en de gesch
 | **Behuizing** | 170g (3d geprint) | [3mf-bestanden](./cad) | ~ € 3,50 |
 | **Vijsjes** | 200 stuks plaatschroef verzinkt verzonken kop 3,5 x 9,5 mm | [Ecotools](https://www.ecotools.be/200stuks-verzinkte-plaatschroef-verzonken-3-5x9-5-mm?gad_source=1&gad_campaignid=23725382052&gclid=Cj0KCQjw_7PRBhDcARIsAMjV7jmjKEYO-8XQVws-kxuUlLlNSls5P48FJXvvkoZzqc7jK9M2gftM3_IaAmmAEALw_wcB) | € 4,25 |
 | **TOTAAL** | | | **€ 172,2- € 182,2** |
+
+Deze kost is om een werkend prototype te maken en zou dus niet de verkoopprijs zijn.
+
+### Bouwinstructies
