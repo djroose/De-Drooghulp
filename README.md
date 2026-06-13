@@ -35,7 +35,7 @@ De drooghulp die wij ontwikkelen moet de duurzame opties weer vanzelfsprekend ma
 5. [Develop 2](./docs/develop2.md)
 6. [Develop 3](./docs/develop3.md)
 7. [Design Requirements](./docs/design_requirements.md)
-8. [Bill of materials (BOM) + Bouwinstructies](./docs/bom.md)
+8. [Bill of materials (BOM) + Bouwinstructies](./docs/Bill of Materials (BOM) + Bouwinstructies.md)
 9. [Conclusion](./docs/conclusion.md)
 
 ## Kritische reflectie

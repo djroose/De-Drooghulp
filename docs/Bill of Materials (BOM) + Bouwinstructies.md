@@ -45,6 +45,7 @@ Plaats het scherm in de behuizing. En gebruik de onderdelen LO (link onder) LB (
 </p>
 En plaats alle sensoren in de behuizing. Voor je het deksel op de behuizing schroeft moet eerst het voetstuk aan het deksel bevestigd worden. Dit doe je door langs de zijkant een stuk ijzerdraad te duwen die door het deksel en voetstuk gaat. Knip hierna de te veel uitstekende ijzerdraad eraf. Hierna kun je het deksel op de behuizing vijzen.
 
+
 En voilà de drooghulp is klaar om ergens opgehangen of gezet te worden.
 
 ## Extra info voor gebruik
