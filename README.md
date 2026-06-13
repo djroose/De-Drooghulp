@@ -48,18 +48,28 @@ De drooghulp die wij ontwikkelen moet de duurzame opties weer vanzelfsprekend ma
 <p align="center"><em>Klik op de afbeelding om de video te openen.</em></p>
 
 
-## Kritische reflectie
-Geen enkel project is perfect of ooit echt 'af'. Wij hebben ons best gedaan om met zoveel mogelijk factoren rekening te houden, maar beseffen dat het onmogelijk is om alles af te dekken. Hieronder volgt een opsomming van potentiële obstakels voor de werking van de drooghulp. Waar mogelijk zullen we in de verdere uitwerking naar oplossingen zoeken.
+## Ontwerpproces
+### Discovery
+Tijdens de Discovery-fase werd de initiële probleemruimte grondig onderzocht om te achterhalen hoe consumenten gestimuleerd kunnen worden om thuis duurzamer te leven. De focus verschoof al snel naar de wasruimte, aangezien kwantitatieve data aantoonden dat witgoedmachines en met name droogkasten tot de grootste energieverbruikers binnen een gemiddeld huishouden behoren. Uit kwalitatief gebruikersonderzoek bleek dat de keuze om de droogkast te gebruiken vaak voortkomt uit een diepwortelende onzekerheid over de wisselvalligheid van het weer. Om deze drempel weg te nemen en visuele nudging toe te passen, ontstond het eerste concept: een interactieve assistent die consumenten voorziet van een proactief en contextueel droogadvies op basis van live weersomstandigheden en actuele energieprijzen met een simpele kleur gevende ledlamp.
+ 
+### Definition
+In de Definition-fase werd dit concept vertaald naar tastbare interacties door middel van twee opeenvolgende golven (waves) van lofi-prototypes. Tijdens de eerste testwave werden minimalistische kartonnen modellen ingezet waarbij uitsluitend een heel summier advies werd getoond; de feedback wees echter uit dat gebruikers zonder extra contextuele data te weinig vertrouwen hadden in het systeem. Een tweede wave van prototypes, waarin aanzienlijk meer randinformatie werd toegevoegd, loste dit wantrouwen op maar introduceerde een nieuw risico op visuele ruis. De Definition-fase werd vervolgens afgerond door de belangrijkste learnings uit deze twee golven te synthetiseren tot één geconsolideerd prototype, waarin alle kritieke gebruikersbehoeften werden samengebracht op één overzichtelijk basisscherm.
+ 
+### Develop 1
+Bij de start van de Develop 1-fase werd dit geconsolideerde prototype kritisch geanalyseerd, waarbij bleek dat de focus te veel was verschoven naar het simpelweg inwilligen van de functionele datavraag van de gebruiker. De interface leed onder cognitieve overbelasting, waardoor de kerndoelstelling het snel bieden van een glashelder advies in het gedrang kwam. Om dit op te lossen, werd de complete interface-indeling herzien en werd de informatie gestructureerd via een doordachte data-architectuur. Dit resulteerde in een nieuw, gelaagd prototype waarin extra features werden geïntroduceerd (zoals een handmatige timer, een sneltoets voor de snelste droogroute en een selectiemenu voor drie generieke wassoorten) om het advies te personaliseren en de bruikbaarheid te verhogen.
+ 
+### Develop 2
+Tijdens de Develop 2-fase werd dit gelaagde model onderworpen aan intensieve bruikbaarheidstesten om de interacties over meerdere iteraties te optimaliseren. Uit de eerste tests bleek namelijk een kritieke ontwerpfout: de informatie en de nieuwe sub-functies waren té diep verstopt in de architectuur, waardoor proefpersonen de weg kwijtraakten en de interface niet volledig begrepen. Er werd direct een iteratieslag gemaakt waarbij de volledige user flow werd gestroomlijnd; alle secundaire functies en datarijke overzichten werden resoluut verplaatst naar diepere sub-schermen. Het hoofdscherm werd hierdoor bevrijd van ruis en puur gereserveerd voor de primaire interactie: het in één oogopslag tonen van de meest optimale en duurzame droogoptie, waarna de gebruiker via een logische doorklikroute direct een gepersonaliseerde timer kon activeren.
+   
+### Develop 3
+In de Develop 3-fase verschoof de focus van de digitale interface naar de fysieke en emotionele productbeleving door middel van een uitgebreide CMF-verkenning (Color, Material, Finish). Om een brede ontwerprichting te garanderen en confirmation bias te voorkomen, werden in de exploratieve fase meer dan 30 esthetische varianten gegenereerd. Deze werden gecureerd tot drie uitgesproken archetypen die elk inspeelden op een andere gebruikersbehoefte: de herkenbaarheid van The Clean Standard, de huiselijke rust van The Natural Home, en de deskundige uitstraling van The Tech Authority. Kwalitatieve gebruikerstesten met fysieke materiaalstalen gaven uiteindelijk de doorslag. Waar proefpersonen de koude autoriteit van metaal te klinisch vonden en de combinatie van hout en vilt te veel vonden afleiden van de technologische functie, was er een unanieme voorkeur voor een hoogwaardige, matwitte kunststof behuizing. Deze definitieve materiaal- en kleurkeuze creëert een directe viscerale match met het bestaande witgoed in de wasruimte. Hierdoor eist het product niet onnodig de aandacht op, maar integreert het als een betrouwbare en herkenbare assistent in de dagelijkse routine van de gebruiker.
+  
+### Kritische reflectie & Toekomst
+Hoewel de drooghulp een bewezen meerwaarde toont, kent het project enkele methodische, technische en gedragspsychologische beperkingen die in toekomstig onderzoek geadresseerd moeten worden. Zo is de proactieve notificatiecyclus via een Wizard of Oz-methode succesvol gevalideerd, maar is een volwaardige smartphone-applicatie wegens scope-beperkingen niet volledig gecodeerd; een langdurige in-the-wild test in een huishoudelijke context is dan ook vereist om te meten of de visuele nudges op de lange termijn effectief blijven of dat er gewenning optreedt. Een dergelijke test helpt tevens de 'gemaksbarrière' te onderzoeken, aangezien de nudging bij gebruikers die puur uit gemakzucht de droogkast verkiezen boven het fysiek ophangen van de was, op termijn als intrusief kan worden ervaren. Daarnaast leunt het concept momenteel op de technische aanname van een stabiele internetverbinding voor live weersdata—wat een offline back-up functionaliteit noodzakelijk maakt voor kelders—en kampt het met een fysieke omgevingsafhankelijkheid, omdat de lokale sensoren een vertekend beeld geven als het apparaat in de wasruimte hangt maar de was elders droogt. Tenslotte kent de huidige interface een beperking op het gebied van Universal Design omdat de statuscommunicatie puur steunt op een chromatisch feedbacksysteem (groen, oranje, rood), wat de toegankelijkheid voor kleurenblinde gebruikers hindert en in de toekomst opgevangen moet worden met redundante, haptische of vormveranderende signalen. Deze optimalisaties kunnen direct worden gekoppeld aan een grotere, meer diverse teststeekproef en de integratie van een proactieve weekvoorspelling en een maandelijks besparingsdashboard met social/gamification elementen om de gebruikersretentie duurzaam te verhogen.
 
-Locatie van het drogen Het apparaat wordt logischerwijs in de wasplaats (het waskot) gehangen. Niet iedereen hangt de was echter op diezelfde locatie op. Omdat het apparaat zijn advies baseert op de lokale temperatuur en luchtvochtigheid, kunnen de sensoren een vertekend beeld geven als de was in een andere ruimte wordt gedroogd.
+### Conclusie
+De uiteindelijke drooghulp bewijst zich als de best mogelijke oplossing voor het gestelde duurzaamheidsprobleem. Waar de assistent aanvankelijk werd ingestoken als een pure, cijfermatige energie- en kostenbespaarder, heeft het empirische ontwerpproces aangetoond dat de werkelijke sleutel tot ecologische impact ligt in het extreem vergemakkelijken en ontzorgen van de gebruikservaring. Door de drempels van weersonzekerheid weg te nemen via een feilloze user flow, een gelaagde informatiearchitectuur en een contextueel passende behuizing, stimuleert dit product duurzaam gedrag op een natuurlijke manier; het maakt van de ecologische keuze simpelweg de meest logische en gemakkelijke keuze binnen de dagelijkse routine van de consument.
 
-Afhankelijkheid van wifi Het apparaat gebruikt online weersvoorspellingen om accuraat en up-to-date advies te geven. Zodra de wifi-verbinding wegvalt, verliest het apparaat een groot deel van zijn functionaliteit. Dit beperkt de inzetbaarheid op locaties met slecht bereik, zoals afgelegen plekken of kelders.
-
-De gemaksbarrière Dit product verlaagt de drempel om voor een duurzame optie te kiezen, maar neemt de fysieke handeling (de was ophangen) niet weg. Sommige gebruikers kiezen niet voor de droogkast vanwege de droogsnelheid, maar puur uit gemakzucht. Voor deze groep kan onze vorm van 'nudging' eerder als irritant dan als behulpzaam worden ervaren.
-
-Representativiteit van de steekproef Hoe groter de groep testpersonen, hoe beter het beeld van de potentiële gebruiker en diens behoeften. Hoewel wij tests hebben uitgevoerd, is de steekproef waarschijnlijk te klein en te weinig divers om een volledig realistisch beeld van de doelgroep te vormen.
-
-Toegankelijkheid (Kleurenblindheid) De kerninformatie wordt gecommuniceerd via gekleurde lampjes (groen, oranje, rood). Voor mensen met kleurenblindheid is dit onderscheid moeilijk of niet te maken. In het vervolgonderzoek moet worden nagegaan hoe we het product ook voor deze groep toegankelijk kunnen maken (bijvoorbeeld door andere signalen toe te voegen).
 
 ## Noot inzake het gebruik van AI
 Ai is gebruikt om Taalfouten uit onze tekst te halen en de tekst vloeiend leesbaar te maken.
@@ -139,3 +149,19 @@ Agostini, C. (2025). Drying Buddy [Mobiele app]. Apple App Store. Geraadpleegd o
 Ortega Campos, I. (n.d.). Laundry Timer – Weather-based clothes drying time calculator. Geraadpleegd op 1 maart 2026, van https://www.laundrytimer.com
 
 Nikhil. (n.d.). DryCast – Smart laundry weather forecast. Geraadpleegd op 1 maart 2026, van https://drycast.app
+
+Niko. (n.d.). Niko Home Control II – Digital Black. Geraadpleegd op 27 april 2026, van https://www.niko.eu/nl-be/producten/niko-home-control/schermen-en-bedieningen/digital-black   
+
+Google Nest. (n.d.). Nest Learning Thermostat (3rd & 4th Generation). Geraadpleegd op 27 april 2026, van https://store.google.com/category/nest_thermostats   
+
+ecobee. (n.d.). Smart Thermostat Premium. Geraadpleegd op 27 april 2026, van https://www.ecobee.com/smart-thermostats   
+
+Basalte. (n.d.). Ellie – Luxury smart home display. Geraadpleegd op 27 april 2026, van https://www.basalte.be/nl/producten/ellie   
+
+Gira. (n.d.). Gira G1 – De compacte centrale voor de gebouwentechniek. Geraadpleegd op 27 april 2026, van https://partner.gira.com/nl_NL/producten/gira-g1   
+
+Bang & Olufsen. (n.d.). Beoremote Halo – Luxury remote control. Geraadpleegd op 27 april 2026, van https://www.bang-olufsen.com/nl/be/accessories/beoremote-halo   
+
+JUNG. (n.d.). Smart Panel 8 – Touchdisplay voor gebouwbesturing. Geraadpleegd op 27 april 2026, van https://www.jung-group.com/nl-NL/Producten/Systemen/Smart-Panel-8   
+
+Control4. (n.d.). T4 Series Smart Home Touchscreens. Geraadpleegd op 27 april 2026, van https://www.control4.com/solutions/interfaces/touch-screens
