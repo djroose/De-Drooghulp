@@ -48,7 +48,7 @@ De drooghulp die wij ontwikkelen moet de duurzame opties weer vanzelfsprekend ma
 <p align="center"><em>Klik op de afbeelding om de video te openen.</em></p>
 
 
-## Ontwerpproces
+## Ontwerpproces (in het kort)
 ### Discovery
 Tijdens de Discovery-fase werd de initiële probleemruimte grondig onderzocht om te achterhalen hoe consumenten gestimuleerd kunnen worden om thuis duurzamer te leven. De focus verschoof al snel naar de wasruimte, aangezien kwantitatieve data aantoonden dat witgoedmachines en met name droogkasten tot de grootste energieverbruikers binnen een gemiddeld huishouden behoren. Uit kwalitatief gebruikersonderzoek bleek dat de keuze om de droogkast te gebruiken vaak voortkomt uit een diepwortelende onzekerheid over de wisselvalligheid van het weer. Om deze drempel weg te nemen en visuele nudging toe te passen, ontstond het eerste concept: een interactieve assistent die consumenten voorziet van een proactief en contextueel droogadvies op basis van live weersomstandigheden en actuele energieprijzen met een simpele kleur gevende ledlamp.
  
