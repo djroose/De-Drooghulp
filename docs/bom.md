@@ -1,31 +1,21 @@
-# Bill of Materials (BOM) - Project Vochtigheidsmeting
+# Bill of Materials (BOM) + Bouwinstructies + code
 
-Dit document bevat de volledige lijst met componenten, specificaties en de geschatte kosten voor de Raspberry Pi opstelling.
-
-## Projectonderdelen
-* Vochtigheidssensor (DHT22)
-* Raspberry Pi
-* 3x RGB Leds
-* Touchscreen scherm
-* Plastieken behuizing
-* Elektrische kabels & GPIO-jumperdraden
-* Voorschakelweerstanden
-* Voeding (adapter)
-* DSI-lintkabel
-* **DHT22:** Vereist een 3.3V of 5V verbinding en één GPIO datapin (met eventueel een 10k ohm pull-up weerstand).
-* **RGB Leds:** Worden aangesloten op PWM-geschikte GPIO pinnen voor kleurfiltering.
+Dit document bevat de volledige lijst met componenten, specificaties en de geschatte kosten voor de Raspberry Pi opstelling. Ook vindt je hier een stap voor stap gids om het product zelf na te bouwen.
 
 ## BOM Overzichtstabel
 
 | Component | Omschrijving & Specificaties | Leverancier / Link | Prijs (Schatting) |
 | :--- | :--- | :--- | :--- |
-| **Raspberry Pi Kit** | Raspberry Pi 4 Model B met voeding | [SOS Solutions](https://www.sossolutions.nl/raspberry-pi-5-1gb-starter-kit-compleet) | € 70,00 - € 80,00 |
-| **Touchscreen** | Officieel Raspberry Pi 7-inch Display (DSI) | [Raspberry Store](https://www.raspberrystore.nl/PrestaShop/nl/beeldschermen/620-pibow-frame-voor-de-raspberry-pi-touch-display-2-noirblack-0769894026380.html) | € 15,00 - € 20,00 |
-| **Vochtigheidssensor**| DHT22 (AM2302) - Hoge nauwkeurigheid | Gotron | € 15,00 - € 20,00 |
-| **Behuizing** | Plastieken behuizing (Productiemethode n.t.b.) | - | ~ € 5,00 |
-| **RGB Leds** | 3x Diffuse RGB LED 5mm (Common Cathode) | Kiwi Electronics | € 0,50 - € 5,00 |
-| **Voeding** | Inbegrepen in de Pi-kit | - | - |
+| **Raspberry Pi Kit** | Raspberry Pi 4 Model B | [SOS Solutions](https://www.sossolutions.nl/raspberry-pi-5-1gb-starter-kit-compleet) | € 70,00 - € 80,00 |
+| **Voeding** | Inbegrepen in de Pi-kit (5V DC minimaal 2A) | - | - |
+| **Touchscreen** | DFRobot LCD Touchscreen with 7 in TFT Colour Display | [RS-online](https://benl.rs-online.com/web/p/raspberry-pi-screens/2473220) | € 49.51 |
 | **DSI-lintkabel** | Inbegrepen bij het scherm | - | - |
-| **Jumperdraden** | Set Male/Female & Female/Female | Gotron | € 4,00 - € 7,00 |
-| **Weerstanden** | Set voorschakelweerstanden (o.b.v. LED specs) | OpenCircuit / HobbyElectronica | € 1,00 - € 5,00 |
+| **4x Metaalschroeven** | Inbegrepen bij het scherm | - | - |
+| **Vochtigheid & temperatuur sensor**| DHT11 | [Ben's electronics](https://www.benselectronics.nl/dht11-board-) | € 2,99 |
+| **Behuizing** | 170g (3d geprint) | 3mf-bestanden | ~ € 3,50 |
+
+
+
+| **Jumperdraden** | Set Male/Female & Female/Female | [Gotron](https://www.gotron.be/jumper-kabel-mannelijk-vrouwelijk-40-x-18cm.html) | € 4,50 |
+
 | **TOTAAL** | | | **€ 111,50 - € 142,00** |
