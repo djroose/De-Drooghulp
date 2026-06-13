@@ -41,13 +41,11 @@ De drooghulp die wij ontwikkelen moet de duurzame opties weer vanzelfsprekend ma
 
 ## Video
 <p align="center">
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/RMGo6WjhGeM"
-    title="Drooghulp-video"
-    frameborder="0"
-    allowfullscreen>
+  <a href="https://www.youtube.com/watch?v=RMGo6WjhGeM" title="Drooghulp-video">
+    <img src="https://img.youtube.com/vi/RMGo6WjhGeM/hqdefault.jpg" alt="Drooghulp-video" width="560">
+  </a>
 </p>
+<p align="center"><em>Klik op de afbeelding om de video te openen.</em></p>
 
 
 ## Kritische reflectie
